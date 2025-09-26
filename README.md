@@ -13,3 +13,15 @@ Invernadero por dentro.
 
 <img src="imagenes/IMG_7742.jpg" width="400" height="400"/> </p>
 <p align="center">
+
+
+<img src="imagenes/IMG_7741.jpg" width="400" height="400"/> </p>
+<p align="center">
+
+
+<img src="imagenes/IMG_7740.jpg" width="400" height="400"/> </p>
+<p align="center">
+
+
+<img src="imagenes/IMG_7739.jpg" width="400" height="400"/> </p>
+<p align="center">
