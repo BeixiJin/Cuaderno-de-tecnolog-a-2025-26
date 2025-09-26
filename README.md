@@ -19,7 +19,7 @@ Invernadero por el lado derecho.
 <img src="imagenes/IMG_7741.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-
+Invernadero por el lado frontal.
 
 <img src="imagenes/IMG_7740.jpg" width="400" height="400"/> </p>
 <p align="center">
