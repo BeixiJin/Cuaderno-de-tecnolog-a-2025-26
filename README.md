@@ -1,4 +1,4 @@
-# Cuaderno-de-tecnolog-a-2025-26
+## Cuaderno-de-tecnolog-a-2025-26
 Cuaderno de tecnología 2025/26 de 4ºESO
 
 # Diseño del mapa de Jaén a mano.
@@ -26,7 +26,7 @@ Cuaderno de tecnología 2025/26 de 4ºESO
 <img src="imagenes/IMG_7740.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-# Invernadero poe la parte trasera.
+# Invernadero por la parte trasera.
 
 <img src="imagenes/IMG_7739.jpg" width="400" height="400"/> </p>
 <p align="center">
