@@ -38,7 +38,11 @@ Recomendaciones: mi recomendación es cambiarle la puerta porque esta muy rota.
 <img src="imagenes/IMG_7740.jpg" width="400" height="400"/> </p>
 <p align="center">
 
+Recomendaciones: aqui no tengo mucho por decir que también es cambiarle otro tejado nuevo.
+
 ## Invernadero por la parte trasera.
 
 <img src="imagenes/IMG_7739.jpg" width="400" height="400"/> </p>
 <p align="center">
+
+Recomendaciones:mi recomendación es ponerle una ventana.
