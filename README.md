@@ -1,7 +1,7 @@
 # Cuaderno de tecnología 2025/26
 Cuaderno de tecnología 2025/26 de 4ºESO
 
-# 1º Proyecto: mapa de Jaén
+# 1º Proyecto: Mapa de Jaén.
 
 ## Diseño del mapa de Jaén a mano.
 
@@ -10,27 +10,29 @@ Este es el diseño que esta hecho a mano alzado sobre de como colocar la mapa in
 <img src="imagenes/IMG_7925.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-# Invernadero por dentro.
+# 2º Proyecto: Invernadero.
+
+## Invernadero por dentro.
   
 <img src="imagenes/IMG_7743.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-# Invernadero por el lado derecho.
+## Invernadero por el lado derecho.
 
 <img src="imagenes/IMG_7742.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-# Invernadero por el lado frontal.
+## Invernadero por el lado frontal.
 
 <img src="imagenes/IMG_7741.jpg" width="400" height="400"/> </p>
 <p align="center">
  
-# Invernadero por el lado izquierdo.
+## Invernadero por el lado izquierdo.
 
 <img src="imagenes/IMG_7740.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-# Invernadero por la parte trasera.
+## Invernadero por la parte trasera.
 
 <img src="imagenes/IMG_7739.jpg" width="400" height="400"/> </p>
 <p align="center">
