@@ -45,4 +45,4 @@ Recomendaciones: aqui no tengo mucho por decir que también es cambiarle otro te
 <img src="imagenes/IMG_7739.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-Recomendaciones:mi recomendación es ponerle una ventana.
+Recomendaciones: mi recomendación es ponerle una ventana y cambiarle el palo metálico que esta sujetado el la foto.
