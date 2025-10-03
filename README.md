@@ -24,7 +24,7 @@ Recomendaciones: me recomendación es cambiar el suelo de madera porque el de an
 <img src="imagenes/IMG_7742.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-
+Recomendaciones: mi recomendación es cortar los filos metalicos que estan sobresalidos porque sino es facil de dañar a alguien y cambiar un tejado de plastico mas limpio y nuevo.
 
 ## Invernadero por el lado frontal.
 
