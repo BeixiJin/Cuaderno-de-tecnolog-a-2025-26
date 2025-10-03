@@ -17,12 +17,14 @@ Este es el diseño que esta hecho a mano alzado sobre de como colocar la mapa in
 <img src="imagenes/IMG_7743.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-Recomendaciones: me recomendación es cambiar el suelo de madera porque el de antes esta viejo y roto
+Recomendaciones: me recomendación es cambiar el suelo de madera porque el de antes esta viejo y roto, quitar las cosas que no sirven y ponerle estantes para poner macetas y cosas.
 
 ## Invernadero por el lado derecho.
 
 <img src="imagenes/IMG_7742.jpg" width="400" height="400"/> </p>
 <p align="center">
+
+
 
 ## Invernadero por el lado frontal.
 
