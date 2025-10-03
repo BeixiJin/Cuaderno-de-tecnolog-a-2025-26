@@ -10,7 +10,7 @@ Este es el diseño que esta hecho a mano alzado sobre de como colocar la mapa in
 <img src="imagenes/IMG_7925.jpg" width="400" height="400"/> </p>
 <p align="center">
  
-## Foto del mapa
+## Foto del mapa.
 
 <img src="imagenes/1000094531 (2).jpg" width="400" height="400"/> </p>
 <p align="center">
