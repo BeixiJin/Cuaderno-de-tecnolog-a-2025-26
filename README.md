@@ -30,6 +30,8 @@ Recomendaciones: mi recomendación es cortar los filos metalicos que estan sobre
 
 <img src="imagenes/IMG_7741.jpg" width="400" height="400"/> </p>
 <p align="center">
+
+Recomendaciones: mi recomendación es cambiarle la puerta porque esta muy rota.
  
 ## Invernadero por el lado izquierdo.
 
