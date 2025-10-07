@@ -23,10 +23,10 @@ Este es el diseño que esta hecho a mano alzado sobre de como colocar la mapa in
 <img src="imagenes/Stunning Esboo-Bombul.png" width="400" height="400"/> </p>
 <p align="center">
 
-<img src="imagenes/Stunning Esboo-Bombul(1).png" width="400" height="400"/> </p>
+<img src="imagenes/Stunning Esboo-Bombul (2).png" width="400" height="400"/> </p>
 <p align="center">
 
-<img src="imagenes/Stunning Esboo-Bombul(2).png" width="400" height="400"/> </p>
+<img src="imagenesStunning Esboo-Bombul (1).png" width="400" height="400"/> </p>
 <p align="center">
  
 # 2º Proyecto: Invernadero.
