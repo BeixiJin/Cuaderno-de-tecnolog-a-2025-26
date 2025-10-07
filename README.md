@@ -5,7 +5,7 @@ Cuaderno de tecnología 2025/26 de 4ºESO
 
 ## Diseño del mapa de Jaén a mano.
 
-Este es el diseño que esta hecho a mano alzado sobre de como colocar la mapa inclinada sobre la mesa. Mi propuesta es que si sabemos que las mesas utilizables son de 0,8m de ancho y de largo 1,6m, y el mapa es de 1,52m de largo y 1,12m de ancho, de largo si cabe la mapa pero de ancho se sobrepara, por eso tendremos que juntar dos mesas para que el ancho no se pase. Y para inclinar el mapa yo pienso usar placas de madera y lo juntamos con tornillo, y el ancho de la tabla es mayor que el de mapa, después usaremos palos metálica o algo que puede aguantar el peso que tiene, y al final porner algo transparente que se pueda obsevar el mapa por arriba como una cristalera o un metacrilato.
+Este es el diseño que esta hecho a mano alzado sobre de como colocar la mapa inclinada sobre la mesa. Mi propuesta es que si sabemos que las mesas utilizables son de 0,8m de ancho y de largo 1,6m, y el mapa es de 1,52m de largo y 1,12m de ancho, de largo si cabe la mapa pero de ancho se sobrepara, por eso tendremos que juntar dos mesas para que el ancho no se pase. Y para inclinar el mapa yo pienso usar placas de madera y lo juntamos con tornillo, y el ancho de la tabla es mayor que el de mapa, después usaremos palos metálica o algo que puede aguantar el peso que tiene, y al final poner algo transparente que se pueda obsevar el mapa por arriba como una cristalera o un metacrilato.
  
 <img src="imagenes/IMG_7925.jpg" width="400" height="400"/> </p>
 <p align="center">
