@@ -28,7 +28,17 @@ Este es el diseño que esta hecho a mano alzado sobre de como colocar la mapa in
 
 <img src="imagenes/Stunning Esboo-Bombul (1).png" width="400" height="400"/> </p>
 <p align="center">
- 
+
+## Presupuesto del mapa.
+
+Tabla de madera:gratis(porque en el taller hay bastantes).
+
+Metacrilato:121.75 €(aproximadamente).
+
+Palos metálicos o de madera:gratis(en el taller hay).
+
+Tornillos:gratis(en el taller hay).
+
 # 2º Proyecto: Invernadero.
 
 ## Invernadero por dentro.
