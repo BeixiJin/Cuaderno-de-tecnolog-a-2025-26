@@ -31,13 +31,13 @@ Este es el diseño que esta hecho a mano alzado sobre de como colocar la mapa in
 
 ## Presupuesto del mapa.
 
-Tabla de madera:gratis(porque en el taller hay bastantes).
+-Tabla de madera:gratis(porque en el taller hay bastantes).
 
-Metacrilato:121.75 €(aproximadamente).
+-Metacrilato:121.75 €(aproximadamente).
 
-Palos metálicos o de madera:gratis(en el taller hay).
+-Palos metálicos o de madera:gratis(en el taller hay).
 
-Tornillos:gratis(en el taller hay).
+-Tornillos:gratis(en el taller hay).
 
 # 2º Proyecto: Invernadero.
 
@@ -75,3 +75,13 @@ Recomendaciones: aqui no tengo mucho por decir que también es cambiarle otro te
 <p align="center">
 
 Recomendaciones: mi recomendación es ponerle una ventana y cambiarle el palo metálico que esta sujetado el la foto.
+
+## Presupuesto del invernadero.
+
+-
+
+-
+
+-
+
+-
