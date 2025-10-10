@@ -84,8 +84,8 @@ Recomendaciones: mi recomendación es ponerle una ventana y cambiarle el palo me
 
 - puerta de madera: 50-80 € (aproximadamente).
 
--
+- madera de suelo: 10-17 € (aproximadamente).
 
--
+- escantes: 20-30 € (aproximadamente).
 
--
+- 70-109 € (aproximadamente).
