@@ -12,6 +12,9 @@ Este es el diseño que está hecho a mano alzado sobre de cómo colocar el mapa 
 
 
 
+
+
+
 CORREGIDO POR IA.
  
 ## Foto del mapa.
