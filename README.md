@@ -99,4 +99,6 @@ Recomendaciones: mi recomendación es ponerle una ventana y cambiarle el palo me
 
 - escantes: 20-30 € (aproximadamente).
 
-- 70-109 € (aproximadamente).
+- ventana demadera: 70-109 € (aproximadamente).
+
+- tejado transparente: 15-25 € (aproximadamente).
