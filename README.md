@@ -82,7 +82,7 @@ Recomendaciones: mi recomendación es ponerle una ventana y cambiarle el palo me
 
 ## Diseño 3D de invernadero.
 
-<img src="imagenes/1000094531 (2).jpg" width="400" height="400"/> </p>
+<img src="imagenes/Fantabulous Fyyran-Hango.png" width="400" height="400"/> </p>
 <p align="center">
 
 <img src="imagenes/1000094531 (2).jpg" width="400" height="400"/> </p>
