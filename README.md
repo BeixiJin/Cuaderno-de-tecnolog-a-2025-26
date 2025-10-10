@@ -80,6 +80,17 @@ Recomendaciones: aqui no tengo mucho por decir que también es cambiarle otro te
 
 Recomendaciones: mi recomendación es ponerle una ventana y cambiarle el palo metálico que esta sujetado el la foto.
 
+## Diseño 3D de invernadero.
+
+<img src="imagenes/1000094531 (2).jpg" width="400" height="400"/> </p>
+<p align="center">
+
+<img src="imagenes/1000094531 (2).jpg" width="400" height="400"/> </p>
+<p align="center">
+
+<img src="imagenes/1000094531 (2).jpg" width="400" height="400"/> </p>
+<p align="center">
+
 ## Presupuesto del invernadero.
 
 - puerta de madera: 50-80 € (aproximadamente).
