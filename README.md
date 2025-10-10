@@ -102,3 +102,5 @@ Recomendaciones: mi recomendación es ponerle una ventana y cambiarle el palo me
 - ventana demadera: 70-109 € (aproximadamente).
 
 - tejado transparente: 15-25 € (aproximadamente).
+
+- palo metálico de la parte trasera: graris (en el taller hay).
