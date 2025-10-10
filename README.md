@@ -9,6 +9,10 @@ Cuaderno de tecnología 2025/26 de 4ºESO
 <p align="center">
 
 Este es el diseño que está hecho a mano alzado sobre de cómo colocar el mapa inclinado sobre la mesa. Mi propuesta es que si sabemos que las mesas utilizables son de 0,8 m de ancho y de largo 1,6 m, y el mapa es de 1,52 m de largo y 1,12 m de ancho. De largo sí cabe el mapa pero, de ancho se sobrepasa, por eso tendremos que juntar dos mesas para que el ancho no se pase. Y para inclinar el mapa yo pienso usar placas de madera y lo juntamos con tornillo, y el ancho de la tabla es mayor que el de mapa, después usaremos palos metálicos o algo que puede aguantar el peso que tiene, y al final poner algo transparente que se pueda observar el mapa por arriba, por ejemplo como una cristalera o un metacrilato.
+
+
+
+CORREGIDO POR IA.
  
 ## Foto del mapa.
 
