@@ -97,7 +97,7 @@ Recomendaciones: Mi recomendación es ponerle una ventana y cambiarle el palo me
 
 - Madera de suelo: 10-17 € (aproximadamente).
 
-- Escantes: 20-30 € (aproximadamente).
+- Estantes: 20-30 € (aproximadamente).
 
 - Ventana demadera: 70-109 € (aproximadamente).
 
