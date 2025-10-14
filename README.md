@@ -43,6 +43,11 @@ CORREGIDO POR IA.
 
 - Tornillos tirafondos: ( 2-10 €).
 
+## Tabla de plan del mapa.
+
+<img src="imagenes/Captura de pantalla 2025-10-14 090304.png" width="400" height="400"/> </p>
+<p align="center">
+
 # 2º Proyecto: Invernadero.
 
 ## Invernadero por dentro.
