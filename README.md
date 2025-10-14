@@ -50,35 +50,35 @@ CORREGIDO POR IA.
 <img src="imagenes/IMG_7743.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-Recomendaciones: mi recomendación es cambiar el suelo de madera porque el de antes esta viejo y roto, quitar las cosas que no sirven y ponerle estantes para poner macetas y cosas.
+Recomendaciones: Mi recomendación es cambiar el suelo de madera porque el de antes esta viejo y roto, quitar las cosas que no sirven y ponerle estantes para poner macetas y cosas.
 
 ## Invernadero por el lado derecho.
 
 <img src="imagenes/IMG_7742.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-Recomendaciones: mi recomendación es cortar los filos metalicos que estan sobresalidos porque sino es facil de dañar a alguien y cambiar un tejado de plastico más limpio y nuevo.
+Recomendaciones: Mi recomendación es cortar los filos metalicos que estan sobresalidos porque sino es facil de dañar a alguien y cambiar un tejado de plastico más limpio y nuevo.
 
 ## Invernadero por el lado frontal.
 
 <img src="imagenes/IMG_7741.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-Recomendaciones: mi recomendación es cambiarle la puerta porque esta muy rota.
+Recomendaciones: Mi recomendación es cambiarle la puerta porque esta muy rota.
  
 ## Invernadero por el lado izquierdo.
 
 <img src="imagenes/IMG_7740.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-Recomendaciones: aqui no tengo mucho por decir que también es cambiarle otro tejado nuevo.
+Recomendaciones: Aquí no tengo mucho por decir que también es cambiarle otro tejado nuevo.
 
 ## Invernadero por la parte trasera.
 
 <img src="imagenes/IMG_7739.jpg" width="400" height="400"/> </p>
 <p align="center">
 
-Recomendaciones: mi recomendación es ponerle una ventana y cambiarle el palo metálico que esta sujetado el la foto.
+Recomendaciones: Mi recomendación es ponerle una ventana y cambiarle el palo metálico que esta sujetado el la foto.
 
 ## Diseño 3D de invernadero.
 
