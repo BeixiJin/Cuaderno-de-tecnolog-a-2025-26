@@ -112,5 +112,5 @@ Recomendaciones: Mi recomendación es ponerle una ventana y cambiarle el palo me
 
 ## Tabla de plan del invernadero.
 
-<img src="imagenes/tabla de invernadero.png" width="400" height="400"/> </p>
+<img src="imagenes/tabla de invenadero.png" width="400" height="400"/> </p>
 <p align="center">
