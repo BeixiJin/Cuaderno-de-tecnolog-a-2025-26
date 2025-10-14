@@ -109,3 +109,8 @@ Recomendaciones: Mi recomendación es ponerle una ventana y cambiarle el palo me
 - Tejado transparente: 15-25 € (aproximadamente).
 
 - Palo metálico de la parte trasera: graris (en el taller hay).
+
+## Tabla de plan del invernadero.
+
+<img src="imagenes/tabla de invernadero.png" width="400" height="400"/> </p>
+<p align="center">
