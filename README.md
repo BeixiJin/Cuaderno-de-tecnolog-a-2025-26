@@ -41,7 +41,7 @@ CORREGIDO POR IA.
 
 - Palos metálicos o de madera: gratis (en el taller hay).
 
-- Tornillos tirafondos ( 2-10 €).
+- Tornillos tirafondos: ( 2-10 €).
 
 # 2º Proyecto: Invernadero.
 
@@ -93,14 +93,14 @@ Recomendaciones: mi recomendación es ponerle una ventana y cambiarle el palo me
 
 ## Presupuesto del invernadero.
 
-- puerta de madera: 50-80 € (aproximadamente).
+- Puerta de madera: 50-80 € (aproximadamente).
 
-- madera de suelo: 10-17 € (aproximadamente).
+- Madera de suelo: 10-17 € (aproximadamente).
 
-- escantes: 20-30 € (aproximadamente).
+- Escantes: 20-30 € (aproximadamente).
 
-- ventana demadera: 70-109 € (aproximadamente).
+- Ventana demadera: 70-109 € (aproximadamente).
 
-- tejado transparente: 15-25 € (aproximadamente).
+- Tejado transparente: 15-25 € (aproximadamente).
 
-- palo metálico de la parte trasera: graris (en el taller hay).
+- Palo metálico de la parte trasera: graris (en el taller hay).
