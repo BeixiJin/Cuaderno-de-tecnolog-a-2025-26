@@ -41,7 +41,7 @@ CORREGIDO POR IA.
 
 - Palos metálicos o de madera: gratis (en el taller hay).
 
-- Tornillos: gratis (en el taller hay).
+- Tornillos tirafondos ( 2-10 €).
 
 # 2º Proyecto: Invernadero.
 
