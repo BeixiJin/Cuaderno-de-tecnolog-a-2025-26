@@ -14,7 +14,9 @@ Hay dos resistencias significativas: fia y variable.
 
 # Resistencia fija y variable
 
-## Resistencia fija
+# - Resistencia fija
+
+## ¿Cómo funciona?
 
 El valor de la resistencia fija está indicado mediante bandas que incuyen un código de colores, y se interpreta en siguientes formas:
 
@@ -24,7 +26,7 @@ El valor de la resistencia fija está indicado mediante bandas que incuyen un c�
 
 - La última franja indica su tolerancia, si es dorada, la tolerancia es del 5%, y si es plata es del 10%.
 
-## Resistencia variable
+# - Resistencia variable
 
 
 
