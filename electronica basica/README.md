@@ -44,6 +44,11 @@ Lo usamos por ejemplo en tinkerkad en proyecto de robótica y también junto a p
 
 # - Resistencia variable
 
+## ¿Cómo funciona?
+
+Funciona en disponer tres contactos y tienen un valor total máximo entre sus extremos. El valor entre los extremos y el central puede variarse mediante el giro de una pieza interna.
+
+## Símbolo electrónico
 
 
 
