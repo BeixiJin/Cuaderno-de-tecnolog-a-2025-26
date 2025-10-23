@@ -26,7 +26,7 @@ El valor de la resistencia fija está indicado mediante bandas que incuyen un c�
 
 - La última franja indica su tolerancia, si es dorada, la tolerancia es del 5%, y si es plata es del 10%.
 
-## Símbolo electrónico
+## Símbolo electrónico.
 
 <img src="Imagenes/resistencia fija.png" width="300" height="300" />
 
@@ -48,7 +48,7 @@ Lo usamos por ejemplo en tinkerkad en proyecto de robótica y también junto a p
 
 Funciona en disponer tres contactos y tienen un valor total máximo entre sus extremos. El valor entre los extremos y el central puede variarse mediante el giro de una pieza interna.
 
-## Símbolo electrónico
+## Símbolo electrónico.
 
 <img src="Imagenes/resistencia variable.webp" width="300" height="300" />
 
