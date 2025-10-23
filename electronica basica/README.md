@@ -26,6 +26,22 @@ El valor de la resistencia fija está indicado mediante bandas que incuyen un c�
 
 - La última franja indica su tolerancia, si es dorada, la tolerancia es del 5%, y si es plata es del 10%.
 
+## Símbolo electrónico
+
+<img src="Imagenes/resistencia fija.png" width="300" height="300" />
+
+## ¿Para qué sirve?
+
+La resistencia fija sirve para para limitar la corriente y dividir el voltaje (como arriba explicado, cada color tiene una resistencia).
+
+## ¿Cómo lo usamos en clase?
+
+Lo usamos por ejemplo en tinkerkad en proyecto de robótica y también junto a potenciómetro en tecnología medor su voltios.
+
+## Imagen del componente
+
+<img src="Imagenes/resistencia fija.png" width="300" height="300" />
+
 # - Resistencia variable
 
 
