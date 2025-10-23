@@ -40,7 +40,7 @@ Lo usamos por ejemplo en tinkerkad en proyecto de robótica y también junto a p
 
 ## Imagen del componente
 
-<img src="Imagenes/resistencia fija.png" width="300" height="300" />
+<img src="Imagenes/foto resistencis fija.jpg" width="300" height="300" />
 
 # - Resistencia variable
 
