@@ -38,7 +38,7 @@ La resistencia fija sirve para para limitar la corriente y dividir el voltaje (c
 
 Lo usamos por ejemplo en tinkerkad en proyecto de robótica y también junto a potenciómetro en tecnología medor su voltios.
 
-## Imagen del componente
+## Imagen del componente.
 
 <img src="Imagenes/foto resistencis fija.jpg" width="300" height="300" />
 
@@ -50,13 +50,13 @@ Funciona en disponer tres contactos y tienen un valor total máximo entre sus ex
 
 ## Símbolo electrónico
 
+<img src="Imagenes/resistencia variable.webp" width="300" height="300" />
 
+## ¿Para qué sirve?
 
+## ¿Cómo lo usamos en clase?
 
-
-
-
-
+## Imagen del componente.
 
 
 
