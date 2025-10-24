@@ -74,7 +74,7 @@ No lo hemos usado, lo hemos visto por encima en la clase.
 
 ## Imagen del componente.
 
-<img src="Imagenes/resistencia variable.webp" width="300" height="300" />
+<img src="Imagenes/foto resistencia fija 123.avif" width="300" height="300" />
 
 
 
