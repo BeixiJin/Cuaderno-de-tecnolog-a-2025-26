@@ -6,6 +6,18 @@ Se dividen en varios tipos de componentes: resistencias, condensadores, diodos y
 
 Los circuitos miniatuizados, se llaman circuitos integrados.
 
+# Índice
+
+- Resistencia fija/Variable.
+
+- Condensadores.
+
+- Diodos.
+
+- Ledes. 
+
+- Transitores.
+
 # ¿ Qué hacen las resistencias?
 
 Las resitencias dificultan el paso de la corriente, consiguiendo, así, variaciones de tensión en los puntos del cicuito donde sea necesario.
