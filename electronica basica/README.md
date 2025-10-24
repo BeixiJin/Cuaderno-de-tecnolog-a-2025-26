@@ -66,9 +66,21 @@ Funciona en disponer tres contactos y tienen un valor total máximo entre sus ex
 
 ## ¿Para qué sirve?
 
+Sirven para controlar la intensidad de brillode una lámpara, la velicidad de giro de un motor o el volumen de un altavoz.
+
 ## ¿Cómo lo usamos en clase?
 
+No lo hemos usado, lo hemos visto por encima en la clase.
+
 ## Imagen del componente.
+
+
+
+
+
+
+
+
 
 
 
