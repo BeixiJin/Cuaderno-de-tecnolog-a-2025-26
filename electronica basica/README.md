@@ -124,7 +124,7 @@ No hemos usado diodo pero en si hemos usado diodo led.
 
 ## Imagen del componente.
 
-
+<img src="Imagenes/IMG_0626.jpeg" width="300" height="300" />
 
 # Ledes.
 
