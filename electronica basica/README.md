@@ -171,7 +171,7 @@ Lo hemos visto en la clase pero no lo hemos usado.
 
 ## Imagen del componente.
 
-
+<img src="Imagenes/IMG_0631.jpeg" width="300" height="300" />
 
 
 
