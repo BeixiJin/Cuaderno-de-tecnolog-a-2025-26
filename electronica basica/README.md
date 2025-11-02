@@ -152,7 +152,7 @@ No hemos usado LED pero en si hemos usado diodo led.
 
 ## ¿Cómo funciona?
 
-
+Funciona como un interruptor automático, que se activa con pequeña corriente de la base, y permite la circulación de dicha corriente entre el colector y el emisor.
 
 ## Símbolo eléctrico.
 
@@ -160,11 +160,14 @@ No hemos usado LED pero en si hemos usado diodo led.
 
 ## ¿Para qué sirve?
 
+Tiene tres estados posibles:
 
-
+- Corte: no hay corriente en la base y los electrones no pasan del emisor al colector. Interruptor abierto.
+- Saturación: A la base llega gran cantidad de electrones, y el paso entre colector y emisor se libera totalmente. Interruptor verrado.
+- Amplificación: Si la corriente presente en la base se encuentra entre los valores de corte y saturación, el transistor entra en su zona activa y la corriente entre el colector y emisor será proporcional a la aue entra por la base. Y esto se denomina ganancia.
 ## ¿Cómo lo usamos en clase?
 
-
+Lo hemos visto en la clase pero no lo hemos usado.
 
 ## Imagen del componente.
 
