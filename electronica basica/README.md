@@ -78,9 +78,9 @@ No lo hemos usado, lo hemos visto por encima en la clase.
 
 # Condensadores.
 
-# ¿Cómo funciona?
+## ¿Cómo funciona?
 
-
+La capacidad (C) de un condensador es la cantidad de carga que es capaz de almacenar por cada voltio aplicando en sus extremos. Se mide en faradios (F).
 
 
 
