@@ -24,7 +24,7 @@ Las resitencias dificultan el paso de la corriente, consiguiendo, así, variacio
 
 Hay dos resistencias significativas: fia y variable.
 
-# Resistencia fija y variable
+# Resistencia fija y variable.
 
 # - Resistencia fija
 
@@ -75,6 +75,19 @@ No lo hemos usado, lo hemos visto por encima en la clase.
 ## Imagen del componente.
 
 <img src="Imagenes/foto resistencia fija 123.avif" width="300" height="300" />
+
+# Condensadores.
+
+# ¿Cómo funciona?
+
+
+
+
+
+
+
+
+
 
 
 
