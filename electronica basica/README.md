@@ -84,11 +84,30 @@ La capacidad (C) de un condensador es la cantidad de carga que es capaz de almac
 
 ## Símbolo eléctrico.
 
+
+
 ## ¿Para qué sirve?
+
+Esta dividido en dos tipos: no polarizados y polarizados.
+- No polarizados: se fabrican de papel, con material cerámico o de poiéster.
+- Polarizados: pueden ser de aluminio o de titanio, poseen mayor capacidad que la otra y hayq ue conectarlo correctamente en el circuito.
+Y los dos sirven en almacenar energía eléctrica mediante dos placas conductoras.
 
 ## ¿Cómo lo usamos en clase?
 
+
+
 ## Imagen del componente.
+
+
+
+
+
+
+
+
+
+
 
 
 
