@@ -100,11 +100,65 @@ Y los dos sirven en almacenar energía eléctrica mediante dos placas conductora
 
 ## Imagen del componente.
 
+# Diodos.
+
+## ¿Cómo funciona?
 
 
 
+## Símbolo eléctrico.
 
 
+
+## ¿Para qué sirve?
+
+
+
+## ¿Cómo lo usamos en clase?
+
+
+
+## Imagen del componente.
+
+# Ledes.
+
+## ¿Cómo funciona?
+
+
+
+## Símbolo eléctrico.
+
+
+
+## ¿Para qué sirve?
+
+
+
+## ¿Cómo lo usamos en clase?
+
+
+
+## Imagen del componente.
+
+# Transitores.
+
+## ¿Cómo funciona?
+
+
+
+## Símbolo eléctrico.
+
+
+
+## ¿Para qué sirve?
+
+
+
+## ¿Cómo lo usamos en clase?
+
+
+
+## Imagen del componente.
 
 
 
