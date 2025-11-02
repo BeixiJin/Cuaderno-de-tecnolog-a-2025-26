@@ -146,7 +146,7 @@ No hemos usado LED pero en si hemos usado diodo led.
 
 ## Imagen del componente.
 
-
+<img src="Imagenes/IMG_0628.jpeg" width="300" height="300" />
 
 # Transitores.
 
