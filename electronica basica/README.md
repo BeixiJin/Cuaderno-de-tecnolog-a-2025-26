@@ -98,11 +98,11 @@ Y los dos sirven en almacenar energía eléctrica mediante dos placas conductora
 
 ## ¿Cómo lo usamos en clase?
 
-
+Lo hemos ido mediandolo con perímetros para saber si su magnitud si escorrecta o tiene diferencia.
 
 ## Imagen del componente.
 
-
+<img src="Imagenes/IMG_0624.png" width="300" height="300" />
 
 # Diodos.
 
