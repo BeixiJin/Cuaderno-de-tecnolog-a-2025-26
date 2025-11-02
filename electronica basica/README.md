@@ -86,6 +86,8 @@ La capacidad (C) de un condensador es la cantidad de carga que es capaz de almac
 
 <img src="Imagenes/IMG_0622.png" width="300" height="300" />
 
+<img src="Imagenes/IMG_0623.png" width="300" height="300" />
+
 ## ¿Para qué sirve?
 
 Esta dividido en dos tipos: no polarizados y polarizados.
