@@ -156,9 +156,7 @@ Funciona como un interruptor automático, que se activa con pequeña corriente d
 
 ## Símbolo eléctrico.
 
-<img src="Imagenes/IMG_0629.png" width="300" height="300" />
-Transistor NPN.
-
+<img src="Imagenes/IMG_0630.webp" width="300" height="300" />
 
 ## ¿Para qué sirve?
 
