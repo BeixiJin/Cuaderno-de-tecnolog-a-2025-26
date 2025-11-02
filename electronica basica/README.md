@@ -112,7 +112,7 @@ Funciona en permitir pasar los electrones en un sentido y no en el otrp gracias 
 
 ## Símbolo eléctrico.
 
-
+<img src="Imagenes/IMG_0625.png" width="300" height="300" />
 
 ## ¿Para qué sirve?
 
