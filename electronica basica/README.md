@@ -102,7 +102,7 @@ Lo hemos ido mediandolo con perímetros para saber si su magnitud si escorrecta 
 
 ## Imagen del componente.
 
-<img src="Imagenes/IMG_0624.png" width="300" height="300" />
+<img src="Imagenes/IMG_0624.jpeg" width="300" height="300" />
 
 # Diodos.
 
