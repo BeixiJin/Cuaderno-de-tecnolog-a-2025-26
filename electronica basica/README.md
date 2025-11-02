@@ -134,7 +134,7 @@ Es un tipo especial de diodo que es capaz de emitir luz cuando es atravesado por
 
 ## Símbolo eléctrico.
 
-
+<img src="Imagenes/IMG_0627.gif" width="300" height="300" />
 
 ## ¿Para qué sirve?
 
