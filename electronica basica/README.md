@@ -100,11 +100,13 @@ Y los dos sirven en almacenar energía eléctrica mediante dos placas conductora
 
 ## Imagen del componente.
 
+
+
 # Diodos.
 
 ## ¿Cómo funciona?
 
-
+Funciona en permitir pasar los electrones en un sentido y no en el otrp gracias al material semiconductor con el que está fabricando.
 
 ## Símbolo eléctrico.
 
@@ -112,19 +114,21 @@ Y los dos sirven en almacenar energía eléctrica mediante dos placas conductora
 
 ## ¿Para qué sirve?
 
-
+Sirve para dirigir la corriente eléctrica en rectificadores y en elementos de protección de circuitos.
 
 ## ¿Cómo lo usamos en clase?
 
-
+No hemos usado diodo pero en si hemos usado diodo led.
 
 ## Imagen del componente.
+
+
 
 # Ledes.
 
 ## ¿Cómo funciona?
 
-
+Es un tipo especial de diodo que es capaz de emitir luz cuando es atravesado por la corriente eléctrica.
 
 ## Símbolo eléctrico.
 
@@ -132,13 +136,15 @@ Y los dos sirven en almacenar energía eléctrica mediante dos placas conductora
 
 ## ¿Para qué sirve?
 
-
+Sirve para producir de manera eficiente, convirtiendo la energía eléctrica en luz a través de un semiconductor.
 
 ## ¿Cómo lo usamos en clase?
 
-
+No hemos usado LED pero en si hemos usado diodo led.
 
 ## Imagen del componente.
+
+
 
 # Transitores.
 
