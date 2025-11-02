@@ -84,7 +84,7 @@ La capacidad (C) de un condensador es la cantidad de carga que es capaz de almac
 
 ## Símbolo eléctrico.
 
-
+<img src="Imagenes/IMG_0622.png" width="300" height="300" />
 
 ## ¿Para qué sirve?
 
