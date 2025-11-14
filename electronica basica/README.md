@@ -183,7 +183,7 @@ Funciona como un interruptor controlado por electricidad, es decir, cuando la co
 
 ## Símbolo eléctrico.
 
-<img src="Rele_1c.jpg" width="300" height="300" />
+<img src="Imagenes/RELE 123.png" width="300" height="300" />
 
 ## ¿Para qué sirve?
 
