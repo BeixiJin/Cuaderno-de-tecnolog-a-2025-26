@@ -205,15 +205,21 @@ EL relé en si no lo hemos usado, lo que hemos hecho es mirarlo en la clase y ex
 
 <img src="Imagenes/Circuito 1.png" width="500" height="500" />
 
-## Activación de un relé mediante un sensor.
+
+
+## - Activación de un relé mediante un sensor.
 
 <img src="Imagenes/Surprising Crift (2).png" width="500" height="500" />
 
 
 
+## Electrónica digital.
 
+# ¿Qué son las puertas lógicas?
 
+Son componentes capaces de realizar operaciones sencillas con ceros y unos.
 
+Las puertas lógicas más importantes son las denominadas: NOT, OR, AND, NOR, NAND y OR exclusica.
 
 
 
