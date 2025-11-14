@@ -187,7 +187,7 @@ Funciona como un interruptor controlado por electricidad, es decir, cuando la co
 
 ## ¿Para qué sirve?
 
-
+Sirve para como interruptor eléctrico controlado que utiliza una señal de baja corriente para activar o desactivar otro circuito.
 
 ## ¿Cómo lo usamos en clase?
 
