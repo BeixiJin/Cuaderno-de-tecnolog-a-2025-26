@@ -179,7 +179,7 @@ Lo hemos visto en la clase pero no lo hemos usado.
 
 ## ¿Cómo funciona?
 
-
+Funciona como un interruptor controlado por electricidad, es decir, cuando la corriente eléctrica pasa por su bobina(bobina es un componente electrónico con dos terminales que almacena energía en un campo magnético y se usa en circuitos eléctricos), genera un campo magnético que atrae una armadura móvil. Esta armadura al moverse, cambia la posición, cerrando uno y abriendo otro.
 
 ## Símbolo eléctrico.
 
