@@ -197,6 +197,16 @@ EL relé en si no lo hemos usado, lo que hemos hecho es mirarlo en la clase y ex
 
 <img src="Imagenes/FOTO REAL RELE.jpg" width="300" height="300" />
 
+# Electrónica analógica.
+
+## Circuitos:
+
+<img src="Imagenes/Circuito 1.png" width="500" height="500" />
+
+
+
+
+
 
 
 
