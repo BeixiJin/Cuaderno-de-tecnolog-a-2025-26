@@ -18,6 +18,8 @@ Los circuitos miniatuizados, se llaman circuitos integrados.
 
 - Transitores.
 
+- Relés.
+
 # ¿ Qué hacen las resistencias?
 
 Las resitencias dificultan el paso de la corriente, consiguiendo, así, variaciones de tensión en los puntos del cicuito donde sea necesario.
@@ -173,6 +175,25 @@ Lo hemos visto en la clase pero no lo hemos usado.
 
 <img src="Imagenes/IMG_0631.jpeg" width="300" height="300" />
 
+# Relés.
+
+## ¿Cómo funciona?
+
+
+
+## Símbolo eléctrico.
+
+
+
+## ¿Para qué sirve?
+
+
+
+## ¿Cómo lo usamos en clase?
+
+
+
+## Imagen del componente.
 
 
 
