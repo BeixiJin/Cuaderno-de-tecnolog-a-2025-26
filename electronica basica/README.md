@@ -191,10 +191,11 @@ Sirve para como interruptor eléctrico controlado que utiliza una señal de baja
 
 ## ¿Cómo lo usamos en clase?
 
-
+EL relé en si no lo hemos usado, lo que hemos hecho es mirarlo en la clase y explicarlo cóm es.
 
 ## Imagen del componente.
 
+<img src="Imagenes/FOTO REAL RELE.jpg" width="300" height="300" />
 
 
 
