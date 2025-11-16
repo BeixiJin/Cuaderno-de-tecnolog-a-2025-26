@@ -241,6 +241,8 @@ La salida es 1 cuando cualquiera de entrada sea uno, si los dos es 0 la salida e
 
 ## Puerta XOR (O exclusiva).
 
+<img src="Imagenes/IMG_0660.png" width="500" height="500" />
+
 La salida es 1 cuando cualquiera de los dos sea uno pero no los dos a la vez, si los dos dan 0 o dan 1 la salida es 0.
 
 ## Puerta NOR (O negada).
