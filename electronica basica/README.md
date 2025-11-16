@@ -247,6 +247,8 @@ La salida es 1 cuando cualquiera de los dos sea uno pero no los dos a la vez, si
 
 ## Puerta NOR (O negada).
 
+<img src="Imagenes/IMG_0661.jpeg" width="500" height="500" />
+
 La salida es 1 cuando ninguna entrada tenga 1, si hay 1 en cualquiera da 0.
 
 ## Puerta NAND (Y negada).
