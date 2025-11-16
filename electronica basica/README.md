@@ -229,6 +229,8 @@ Es inversa, si entra un 1, sale un 0, y viceversa.
 
 ## Puerta AND (Y).
 
+<img src="Imagenes/IMG_0658.jpeg" width="500" height="500" />
+
 La salida es 1 cuando las dos entradas es 1, sino es 0.
 
 ## Puerta OR (O).
