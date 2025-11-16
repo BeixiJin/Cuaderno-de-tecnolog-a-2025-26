@@ -207,7 +207,7 @@ EL relé en si no lo hemos usado, lo que hemos hecho es mirarlo en la clase y ex
 
 
 
-## - Activación de un relé mediante un sensor.
+## - Relé para cambiar el sentido de giro de un motor.
 
 <img src="Imagenes/Surprising Crift (2).png" width="500" height="500" />
 
@@ -221,8 +221,29 @@ Son componentes capaces de realizar operaciones sencillas con ceros y unos.
 
 Las puertas lógicas más importantes son las denominadas: NOT, OR, AND, NOR, NAND y OR exclusica.
 
+## Puerta NOT (NO).
 
+Es inversa, si entra un 1, sale un 0, y viceversa.
 
+## Puerta AND (Y).
+
+La salida es 1 cuando las dos entradas es 1, sino es 0.
+
+## Puerta OR (O).
+
+La salida es 1 cuando cualquiera de entrada sea uno, si los dos es 0 la salida es 0.
+
+## Puerta XOR (O exclusiva).
+
+La salida es 1 cuando cualquiera de los dos sea uno pero no los dos a la vez, si los dos dan 0 o dan 1 la salida es 0.
+
+## Puerta NOR (O negada).
+
+La salida es 1 cuando ninguna entrada tenga 1, si hay 1 en cualquiera da 0.
+
+## Puerta NAND (Y negada).
+
+La salida es 0 cuando las dos entradas son 1, si solo hay uno o ninguno es 1.
 
 
 
