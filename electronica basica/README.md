@@ -213,9 +213,9 @@ EL relé en si no lo hemos usado, lo que hemos hecho es mirarlo en la clase y ex
 
 
 
-## Electrónica digital.
+# Electrónica digital.
 
-# ¿Qué son las puertas lógicas?
+## ¿Qué son las puertas lógicas?
 
 Son componentes capaces de realizar operaciones sencillas con ceros y unos.
 
