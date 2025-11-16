@@ -235,6 +235,8 @@ La salida es 1 cuando las dos entradas es 1, sino es 0.
 
 ## Puerta OR (O).
 
+<img src="Imagenes/IMG_0659.png" width="500" height="500" />
+
 La salida es 1 cuando cualquiera de entrada sea uno, si los dos es 0 la salida es 0.
 
 ## Puerta XOR (O exclusiva).
