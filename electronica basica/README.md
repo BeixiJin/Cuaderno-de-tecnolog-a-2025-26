@@ -253,6 +253,8 @@ La salida es 1 cuando ninguna entrada tenga 1, si hay 1 en cualquiera da 0.
 
 ## Puerta NAND (Y negada).
 
+<img src="Imagenes/IMG_0662.png" width="500" height="500" />
+
 La salida es 0 cuando las dos entradas son 1, si solo hay uno o ninguno es 1.
 
 
