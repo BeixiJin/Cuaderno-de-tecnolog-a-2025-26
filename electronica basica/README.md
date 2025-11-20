@@ -263,3 +263,13 @@ La salida es 0 cuando las dos entradas son 1, si solo hay uno o ninguno es 1.
 
 # Montaje de circuito con puertas lógicas.
 
+## Foto de montaje.
+
+
+
+## - Disposición interna.
+
+<img src="Imagenes/7404.jpg" width="500" height="500" />
+
+
+
