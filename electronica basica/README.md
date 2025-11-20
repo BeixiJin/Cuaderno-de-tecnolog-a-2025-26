@@ -206,6 +206,10 @@ EL relé en si no lo hemos usado, lo que hemos hecho es mirarlo en la clase y ex
 <img src="Imagenes/Circuito 1.png" width="500" height="500" />
 
 
+## - Activación de un relé mediante un sensor.
+
+<img src="Imagenes/segundo circuito.png" width="500" height="500" />
+
 
 ## - Relé para cambiar el sentido de giro de un motor.
 
