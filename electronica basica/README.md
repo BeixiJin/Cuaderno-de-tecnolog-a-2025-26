@@ -242,11 +242,25 @@ Es inversa, si entra un 1, sale un 0, y viceversa.
 
 La salida es 1 cuando las dos entradas es 1, sino es 0.
 
+| a | b | S |
+| - | - | - |
+| 0 | 0 | 0 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
+
 ## Puerta OR (O).
 
 <img src="Imagenes/IMG_0659.png" width="500" height="500" />
 
 La salida es 1 cuando cualquiera de entrada sea uno, si los dos es 0 la salida es 0.
+
+| a | b | S |
+| - | - | - |
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 1 |
 
 ## Puerta XOR (O exclusiva).
 
@@ -254,17 +268,38 @@ La salida es 1 cuando cualquiera de entrada sea uno, si los dos es 0 la salida e
 
 La salida es 1 cuando cualquiera de los dos sea uno pero no los dos a la vez, si los dos dan 0 o dan 1 la salida es 0.
 
+| a | b | S |
+| - | - | - |
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
+
 ## Puerta NOR (O negada).
 
 <img src="Imagenes/IMG_0661.jpeg" width="500" height="500" />
 
 La salida es 1 cuando ninguna entrada tenga 1, si hay 1 en cualquiera da 0.
 
+| a | b | S |
+| - | - | - |
+| 0 | 0 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 0 |
+
 ## Puerta NAND (Y negada).
 
 <img src="Imagenes/IMG_0662.png" width="500" height="500" />
 
 La salida es 0 cuando las dos entradas son 1, si solo hay uno o ninguno es 1.
+
+| a | b | S |
+| - | - | - |
+| 0 | 0 | 1 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
 
 # Montaje de circuito con puertas lógicas.
 
