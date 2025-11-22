@@ -205,6 +205,9 @@ EL relé en si no lo hemos usado, lo que hemos hecho es mirarlo en la clase y ex
 
 <img src="Imagenes/Circuito 1.png" width="500" height="500" />
 
+Este montaje de circuito tiene una pila de 4,5 voltios (3 pilas de 1,5V), un LED, un pulsador, un transitor NPN, dos resistencia y un condensador poliradizado.
+
+El objetivo de este circuito es que en principio el LED está apagado, pero al mantener el pulsador, la corriente eléctrica circula por la base, se activa el transitor y se enciende el LED, al mismo tiempo, el condensador se carga. Después al soltar el pulsador, el LED sigue iluminando pero se apaga poco a poco durante tiempo porque la corriente se corta y se queda sin carga.
 
 ## - Activación de un relé mediante un sensor.
 
