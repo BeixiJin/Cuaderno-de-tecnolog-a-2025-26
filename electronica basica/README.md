@@ -313,7 +313,11 @@ La salida es 0 cuando las dos entradas son 1, si solo hay uno o ninguno es 1.
 
 ## Foto de montaje.
 
+<img src="Imagenes/IMG_9110.jpeg" width="300" height="300" />
 
+<img src="Imagenes/IMG_9111.jpeg" width="300" height="300" />
+
+<img src="Imagenes/IMG_9113.jpeg" width="300" height="300" />
 
 ## - Disposición interna.
 
