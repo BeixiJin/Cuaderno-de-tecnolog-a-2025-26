@@ -221,7 +221,9 @@ El objetivo de este circuito es que cuando incide luz sobre LDR, su resistencia 
 
 <img src="Imagenes/Surprising Crift (2).png" width="500" height="500" />
 
-Este 
+En este montaje de circuito tenemos una pila de 6 voltios y otro de 9 voltios, un transitor NPN, un rele, un motor, una resistencia, un LDR, un pptenciometro y un diodo.
+
+El objetivo de este circuito es que cuando el circuito esta circulando e motor estará girando en un sentido, cuando la luz incide sobre LDR, la resistencia disminuye para que pase por la base de transitor y el diodo controla la cantidad que produce para apagar el relé y el motor girará hacia otro sentido.
 
 # Electrónica digital.
 
