@@ -323,5 +323,15 @@ La salida es 0 cuando las dos entradas son 1, si solo hay uno o ninguno es 1.
 
 <img src="Imagenes/7404.jpg" width="500" height="500" />
 
+# Circuito con puertas lógicas con LDR.
+
+<img src="Imagenes/circuitoconpuertaslogicasconLDR.png" width="500" height="500" />
+
+
+
+
+
+
+
 
 
