@@ -309,6 +309,46 @@ La salida es 0 cuando las dos entradas son 1, si solo hay uno o ninguno es 1.
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
+# Álgebra de Boole.
+
+El diseño de los circuitos requiere encontrar las puertas adecuadas, simplificando al máximo la expresión obtenida en la tabla de verdad. A fin de hallar dicha expresión lógica y se recurre a esta álgebra.
+
+## Entradas.
+
+Entrada a. El estado de la puerta lo determinará un sensor de contacto que se cierra al abrir la puerta: puerta abierta 1, puerta cerrada = 0.
+
+Entrada b. La luz será detectada por un sensor de luminosidad que mandará señales positivas cuando sea de día: día = 1, noche = 0.
+
+Entrada c. La presencia de alguien en la habitación de al lado la indicará un sensor de movimiento: presencia = 1, ausencia = 0.
+
+## Tabla de verdad.
+
+| a | b | c | S |
+| - | - | - | - |
+| 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 0 |
+| 0 | 1 | 0 | 0 |
+| 0 | 1 | 1 | 0 |
+| 1 | 0 | 0 | 1 |
+| 1 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 1 |
+| 1 | 1 | 1 | 1 |
+
+## Expresión lógica.
+
+S = ab'c' + abc' + abc
+
+Si se intentase montar directamente esta expresión con puertas lógicas, se precisarían como mínimo dos puertas NOT, tres AND y un OR tripe, por lo que es necesario simplificarla.
+
+## Álgebra de Boole.
+
+S = ab'c' + abc' + abc =
+= a(b'c' + bc' + bc) =
+= a(b'c' + bc' + bc' + bc) =
+= a((b' + b)c' + b(c' + c)) =
+= a(1•c' + 1•b) =
+= a(b + c')
+
 # Montaje de circuito con puertas lógicas.
 
 ## Foto de montaje.
