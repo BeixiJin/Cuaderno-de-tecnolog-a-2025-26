@@ -343,10 +343,15 @@ Si se intentase montar directamente esta expresión con puertas lógicas, se pre
 ## Álgebra de Boole.
 
 S = ab'c' + abc' + abc =
+
 = a(b'c' + bc' + bc) =
+
 = a(b'c' + bc' + bc' + bc) =
+
 = a((b' + b)c' + b(c' + c)) =
+
 = a(1•c' + 1•b) =
+
 = a(b + c')
 
 # Montaje de circuito con puertas lógicas.
