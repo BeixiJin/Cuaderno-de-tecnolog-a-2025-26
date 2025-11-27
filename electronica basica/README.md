@@ -338,6 +338,8 @@ Entrada c. La presencia de alguien en la habitación de al lado la indicará un 
 
 S = ab'c' + abc' + abc
 
+(') Este signo significa que esta negada. 
+
 Si se intentase montar directamente esta expresión con puertas lógicas, se precisarían como mínimo dos puertas NOT, tres AND y un OR tripe, por lo que es necesario simplificarla.
 
 ## Álgebra de Boole.
