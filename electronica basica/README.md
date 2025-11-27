@@ -370,7 +370,7 @@ S = ab'c' + abc' + abc =
 
 # Circuito con puertas lógicas con LDR.
 
-<img src="Imagenes/CircuitodepuertaslogicasconLDR.png" width="500" height="500" />
+<img src="Imagenes/MontajePuertasLogicas.png" width="500" height="500" />
 
 
 
