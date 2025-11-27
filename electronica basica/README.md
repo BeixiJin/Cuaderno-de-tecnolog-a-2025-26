@@ -370,6 +370,8 @@ S = ab'c' + abc' + abc =
 
 <img src="Imagenes/7404.jpg" width="500" height="500" />
 
+Este es una puerta lógica NOT, que tiene 7 en GND(tierra) y el 14 en 5V(voltios), estan conectado en forma de si el 1 es entrada, el 2 será salida; si el 3 es entrada, el 4 es salida, y asi constantemente hasta el 13 pero no incluyendo el 7 y el 14.
+
 # Circuito con puertas lógicas con LDR.
 
 <img src="Imagenes/MontajePuertasLogicas.png" width="500" height="500" />
