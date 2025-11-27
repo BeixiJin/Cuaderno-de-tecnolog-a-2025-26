@@ -231,7 +231,7 @@ El objetivo de este circuito es que cuando el circuito esta circulando e motor e
 
 Son componentes capaces de realizar operaciones sencillas con ceros y unos.
 
-Las puertas lógicas más importantes son las denominadas: NOT, OR, AND, NOR, NAND y OR exclusica.
+Las puertas lógicas más importantes son las denominadas: NOT, OR, AND, NOR, NAND y OR exclusiva.
 
 ## Puerta NOT (NO).
 
