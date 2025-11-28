@@ -356,7 +356,7 @@ S = ab'c' + abc' + abc =
 
 = a(b + c')
 
-# Montaje de circuito con puertas lógicas.
+# Montaje de circuito con 1 puerta lógica.
 
 ## Foto de montaje.
 
