@@ -366,7 +366,7 @@ S = ab'c' + abc' + abc =
 
 <img src="Imagenes/IMG_9113.jpeg" width="300" height="300" />
 
-El obejetivo de este circuito es que funcione con la puerta lógica, plusador y diodoled. Este circuito tiene una puerta NOT, funciona en, como podeis ver en la foto, esta siempre encendido, se apaga cuando mantienes al pulsador, funciona así porque un NOT si la entrada es 1, sale un 0 y viceversa. Es decir inicia el circuito, el diodo led está siempre encendido y si mantienes al pulsador se apaga y solo tiene una entrada y una salida.
+El objetivo de este circuito es que funcione con la puerta lógica, plusador y diodoled. Este circuito tiene una puerta NOT, funciona en, como podeis ver en la foto, esta siempre encendido, se apaga cuando mantienes al pulsador, funciona así porque un NOT si la entrada es 1, sale un 0 y viceversa. Es decir inicia el circuito, el diodo led está siempre encendido y si mantienes al pulsador se apaga y solo tiene una entrada y una salida.
 
 ## - Disposición interna.
 
