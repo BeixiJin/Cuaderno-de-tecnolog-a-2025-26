@@ -122,7 +122,7 @@ Sirve para dirigir la corriente eléctrica en rectificadores y en elementos de p
 
 ## ¿Cómo lo usamos en clase?
 
-No hemos usado diodo pero en si hemos usado diodo led.
+En la clase lo hemos usado para proteger el relé.
 
 ## Imagen del componente.
 
@@ -144,7 +144,7 @@ Sirve para producir de manera eficiente, convirtiendo la energía eléctrica en 
 
 ## ¿Cómo lo usamos en clase?
 
-No hemos usado LED pero en si hemos usado diodo led.
+Lo hems usado en circuitos juntos a pulsadores para que brille.
 
 ## Imagen del componente.
 
