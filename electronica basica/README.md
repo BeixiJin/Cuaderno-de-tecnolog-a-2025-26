@@ -369,7 +369,7 @@ El objetivo de este circuito es que funcione con la puerta lógica, plusador y d
 
 ## Foto de montaje en tinkerkad.
 
-<img src="Imagenes/image.png" width="300" height="300" />
+<img src="Imagenes/image.png" width="600" height="600" />
 
 Este es el montaje de tinkerkad del circuito con puerta lógica NOT, esta brillando el diodoLED siempre, se apaga cuando le mantienes pulsado el pulsador y  si dejas de mantenernlo se enciende otra vez.
 
