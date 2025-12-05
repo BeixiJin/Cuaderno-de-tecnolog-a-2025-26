@@ -235,7 +235,7 @@ Las puertas lógicas más importantes son las denominadas: NOT, OR, AND, NOR, NA
 
 ## Puerta NOT (NO).
 
-<img src="Imagenes/IMG_0657.jpeg" width="500" height="500" />
+<img src="Imagenes/compuerta-not.png" width="500" height="500" />
 
 Es inversa, si entra un 1, sale un 0, y viceversa.
 
