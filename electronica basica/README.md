@@ -167,9 +167,10 @@ Tiene tres estados posibles:
 - Corte: no hay corriente en la base y los electrones no pasan del emisor al colector. Interruptor abierto.
 - Saturación: A la base llega gran cantidad de electrones, y el paso entre colector y emisor se libera totalmente. Interruptor verrado.
 - Amplificación: Si la corriente presente en la base se encuentra entre los valores de corte y saturación, el transistor entra en su zona activa y la corriente entre el colector y emisor será proporcional a la aue entra por la base. Y esto se denomina ganancia.
+
 ## ¿Cómo lo usamos en clase?
 
-Lo hemos visto en la clase pero no lo hemos usado.
+Lo estamos usando en tinkerkad y en físico para los circuitos.
 
 ## Imagen del componente.
 
@@ -191,7 +192,7 @@ Sirve para como interruptor eléctrico controlado que utiliza una señal de baja
 
 ## ¿Cómo lo usamos en clase?
 
-EL relé en si no lo hemos usado, lo que hemos hecho es mirarlo en la clase y explicarlo cómo es.
+Lo estamos usando como elemento de separación de circuito para activar o desanctivar circuitos.
 
 ## Imagen del componente.
 
