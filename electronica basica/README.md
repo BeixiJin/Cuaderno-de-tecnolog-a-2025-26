@@ -118,7 +118,7 @@ Funciona en permitir pasar los electrones en un sentido y no en el otrp gracias 
 
 ## ¿Para qué sirve?
 
-Sirve para dirigir la corriente eléctrica en rectificadores y en elementos de protección de circuitos.
+Sirve para dirigir la corriente eléctrica en rectificadores(Aparato que transforma una corriente alterna en corriente continua) y en elementos de protección de circuitos.
 
 ## ¿Cómo lo usamos en clase?
 
