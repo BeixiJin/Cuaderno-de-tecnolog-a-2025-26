@@ -367,6 +367,12 @@ S = ab'c' + abc' + abc =
 
 El objetivo de este circuito es que funcione con la puerta lógica, plusador y diodoled. Este circuito tiene una puerta NOT, funciona en, como podeis ver en la foto, esta siempre encendido, se apaga cuando mantienes al pulsador, funciona así porque un NOT si la entrada es 1, sale un 0 y viceversa. Es decir inicia el circuito, el diodo led está siempre encendido y si mantienes al pulsador se apaga y solo tiene una entrada y una salida.
 
+## Foto de montaje en tinkerkad.
+
+<img src="Imagenes/image.png" width="300" height="300" />
+
+Este es el montaje de tinkerkad del circuito con puerta lógica NOT, esta brillando el diodoLED siempre, se apaga cuando le mantienes pulsado el pulsador y  si dejas de mantenernlo se enciende otra vez.
+
 ## - Disposición interna.
 
 <img src="Imagenes/7404.jpg" width="500" height="500" />
