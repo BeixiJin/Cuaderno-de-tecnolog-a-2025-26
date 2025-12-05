@@ -274,7 +274,7 @@ La salida es 1 cuando cualquiera de entrada sea uno, si los dos es 0 la salida e
 
 <img src="Imagenes/IMG_0660.png" width="500" height="500" />
 
-La salida es 1 cuando cualquiera de los dos sea uno pero no los dos a la vez, si los dos dan 0 o dan 1 la salida es 0.
+La salida es 1 cuando uno de las dos entradas sean 1, si las dos dan 0 o dan 1 la salida es 0.
 
 | a | b | S |
 | - | - | - |
@@ -298,7 +298,7 @@ La salida es 1 cuando ninguna entrada tenga 1, si hay 1 en cualquiera da 0.
 
 ## Puerta NAND (Y negada).
 
-<img src="Imagenes/IMG_0662.png" width="500" height="500" />
+<img src="Imagenes/electronic-simbolo-puerta-nand.png" width="500" height="500" />
 
 La salida es 0 cuando las dos entradas son 1, si solo hay uno o ninguno es 1.
 
