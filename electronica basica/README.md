@@ -72,7 +72,7 @@ Sirven para controlar la intensidad de brillode una lámpara, la velicidad de gi
 
 ## ¿Cómo lo usamos en clase?
 
-No lo hemos usado, lo hemos visto por encima en la clase.
+Lo hemos usado en cambiar los valores junto al diodoLED para cambiar la iluminosidad.
 
 ## Imagen del componente.
 
@@ -100,7 +100,7 @@ Y los dos sirven en almacenar energía eléctrica mediante dos placas conductora
 
 ## ¿Cómo lo usamos en clase?
 
-Lo hemos ido mediandolo con perímetros para saber si su magnitud si escorrecta o tiene diferencia.
+Hemos ido midiendolo con perímetros para saber si su magnitud si escorrecta o tiene diferencia.
 
 ## Imagen del componente.
 
