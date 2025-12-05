@@ -360,11 +360,9 @@ S = ab'c' + abc' + abc =
 
 ## Foto de montaje.
 
-<img src="Imagenes/IMG_9110.jpeg" width="300" height="300" />
-
-<img src="Imagenes/IMG_9111.jpeg" width="300" height="300" />
-
-<img src="Imagenes/IMG_9113.jpeg" width="300" height="300" />
+| Foto1 | Foto2 | Foto3 |
+| - | - | - |
+| <img src="Imagenes/IMG_9110.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_9111.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_9113.jpeg" width="300" height="300" /> |
 
 El objetivo de este circuito es que funcione con la puerta lógica, plusador y diodoled. Este circuito tiene una puerta NOT, funciona en, como podeis ver en la foto, esta siempre encendido, se apaga cuando mantienes al pulsador, funciona así porque un NOT si la entrada es 1, sale un 0 y viceversa. Es decir inicia el circuito, el diodo led está siempre encendido y si mantienes al pulsador se apaga y solo tiene una entrada y una salida.
 
