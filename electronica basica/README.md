@@ -416,3 +416,4 @@ Este es una puerta lógica NOT, que tiene 7 en GND(tierra) y el 14 en 5V(voltios
 
 
 
+
