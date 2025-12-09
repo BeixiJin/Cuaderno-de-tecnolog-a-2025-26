@@ -379,10 +379,9 @@ Este es el montaje de tinkerkad del circuito con puerta lógica NOT, esta brilla
 
 Este es una puerta lógica NOT, que tiene 7 en GND(tierra) y el 14 en 5V(voltios), estan conectado en forma de si el 1 es entrada, el 2 será salida; si el 3 es entrada, el 4 es salida, y asi constantemente hasta el 13 pero no incluyendo el 7 y el 14.
 
-# Circuito con puertas lógicas con LDR.
+# Circuito con puertas lógicas con relé.
 
 <img src="Imagenes/MontajePuertasLogicas.png" width="500" height="500" />
-
 
 # Circuito con 3 puertas lógicas con diodoLED.
 
@@ -394,9 +393,18 @@ Este es una puerta lógica NOT, que tiene 7 en GND(tierra) y el 14 en 5V(voltios
 | - | - | - |
 | <img src="Imagenes/IMG_9503.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_9504.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_9505.jpeg" width="300" height="300" /> |
 
+## Tabla de verdad.
 
-
-
+| a | b | c | S |
+| - | - | - | - |
+| 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 1 |
+| 0 | 1 | 0 | 1 |
+| 0 | 1 | 1 | 1 |
+| 1 | 0 | 0 | 0 |
+| 1 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 0 |
+| 1 | 1 | 1 | 0 |
 
 
 
