@@ -2,7 +2,7 @@
 
 Es el estudio de los circuitos y componentes que permiten modificar las característicasde la corriente eléctrica: la amplifican, permiten la circulación de electrones, eliminan ruidos, etc.
 
-Se dividen en varios tipos de componentes: resistencias, condensadores, diodos y transistores.
+Se dividen en varios tipos de componentes: resistencias, condensadores, diodos, transistores, etc.
 
 Los circuitos miniatuizados, se llaman circuitos integrados.
 
