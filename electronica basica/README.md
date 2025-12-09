@@ -393,7 +393,9 @@ Este es una puerta lógica NOT, que tiene 7 en GND(tierra) y el 14 en 5V(voltios
 | - | - | - |
 | <img src="Imagenes/IMG_9503.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_9504.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_9505.jpeg" width="300" height="300" /> |
 
-## Tabla de verdad.
+## Tabla de verdad y foto.
+
+<img src="Imagenes/compuertas-logicas.png" width="300" height="300" />
 
 | a | b | c | S |
 | - | - | - | - |
@@ -405,8 +407,6 @@ Este es una puerta lógica NOT, que tiene 7 en GND(tierra) y el 14 en 5V(voltios
 | 1 | 0 | 1 | 0 |
 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 1 | 0 |
-
-
 
 
 
