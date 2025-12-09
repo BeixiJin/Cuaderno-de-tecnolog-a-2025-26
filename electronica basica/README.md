@@ -388,6 +388,19 @@ Este es una puerta lógica NOT, que tiene 7 en GND(tierra) y el 14 en 5V(voltios
 
 <img src="Imagenes/Montajede3puertaslógicasconLDR.png" width="500" height="500" />
 
+## Foto de montaje.
+
+| Foto1 | Foto2 | Foto3 |
+| - | - | - |
+| <img src="Imagenes/IMG_9503.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_9504.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_9505.jpeg" width="300" height="300" /> |
+
+
+
+
+
+
+
+
 
 
 
