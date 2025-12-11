@@ -413,10 +413,8 @@ Primero empezamos con una pila de 6 voltios que tiene un lado positivo y un lado
 
 Esta tabla de verdad funciona en que el a esta pasando por un NOT, el b junto con el c pasan primero por OR, y por lo último los dos valores(valor que da en a al pasar por el NOT y el valor que da del b y el c al pasar en un OR) pasan por un AND y se sale.
 
+## Disposiciones interna de puertas lógicas.
 
-
-
-
-
-
-
+| 7404 (NOT) | 7408 (AND) | 7432 (OR) |
+| - | - | - |
+| <img src="Imagenes/IMG_0714.jpeg" width="500" height="500" /> | <img src="Imagenes/IMG_0715.jpeg" width="500" height="500" /> | <img src="Imagenes/IMG_0716.jpeg" width="500" height="500" /> |
