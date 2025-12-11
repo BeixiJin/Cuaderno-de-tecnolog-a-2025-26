@@ -387,6 +387,9 @@ Este es una puerta lógica NOT, que tiene 7 en GND(tierra) y el 14 en 5V(voltios
 
 <img src="Imagenes/Montajede3puertaslógicasconLDR.png" width="500" height="500" />
 
+Primero empezamos con una pila de 6 voltios que tiene un lado positivo y un lado negativo ( en el positivo y el negativo están conectados todos entre sí en dirección horizontal), después tiene un LDR que tiene un terminal conectado en positivo y el otro intermitente está conectado junto con una resistencia de 1000 ohmios y la resistencia está conectado en el negativo, y tiene otro cable conectado en la entrada de puerta 7404 (NOT), después la puerta 7404 tiene el terminal 14 (5V) conectado en el positivo
+
+
 ## Foto de montaje.
 
 | Foto1 | Foto2 | Foto3 |
