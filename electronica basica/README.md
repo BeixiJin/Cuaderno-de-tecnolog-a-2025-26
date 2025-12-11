@@ -418,3 +418,6 @@ Esta tabla de verdad funciona en que el a esta pasando por un NOT, el b junto co
 | 7404 (NOT) | 7408 (AND) | 7432 (OR) |
 | - | - | - |
 | <img src="Imagenes/IMG_0714.jpeg" width="500" height="500" /> | <img src="Imagenes/IMG_0715.jpeg" width="500" height="500" /> | <img src="Imagenes/IMG_0716.jpeg" width="500" height="500" /> |
+
+Estos son las disposiciones interna que estamos usando.
+
