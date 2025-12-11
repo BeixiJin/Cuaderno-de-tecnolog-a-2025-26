@@ -383,6 +383,10 @@ Este es una puerta lógica NOT, que tiene 7 en GND(tierra) y el 14 en 5V(voltios
 
 <img src="Imagenes/MontajePuertasLogicas.png" width="500" height="500" />
 
+Este circuito tiene una pila de 6 voltios, 3 puertas lógicas diferentes, un LDR, un transistor NPN, un diodo, un relé, dos pulsadores, 3 resistencias y cables para conectarlos entre sí.
+
+(Este circuito no esta explicado porque no lo hemos hecho en la clase por la falta de clase y no se como funciona cada cosa).
+
 # Circuito de compuertas lógicas con diodoLED.
 
 <img src="Imagenes/Montajede3puertaslógicasconLDR.png" width="500" height="500" />
