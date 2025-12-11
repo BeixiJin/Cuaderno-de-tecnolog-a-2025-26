@@ -408,7 +408,7 @@ Este es una puerta lógica NOT, que tiene 7 en GND(tierra) y el 14 en 5V(voltios
 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 1 | 0 |
 
-
+Esta tabla de verdad funciona en que el a esta pasando por un NOT, el b junto con el c pasan primero por OR, y por lo último los dos valores(valor que da en a al pasar por el NOT y el valor que da del b y el c al pasar en un OR) pasan por un AND y se sale.
 
 
 
