@@ -400,6 +400,8 @@ Primero empezamos con una pila de 6 voltios que tiene un lado positivo y un lado
 
 El objetivo de este circuito es con la ayuda del LDR y dos pulsadores mediante 3 puertas lógicas que haga funcionar el diodoLED, para que la salida sea lo que tiene que hacer.
 
+(Los cables estan conectado tan juntos porque en teoría los positivos y los negativos estan conectado horizontalmente entre si pero en el nuestro no).
+
 ## Tabla de verdad y foto.
 
 <img src="Imagenes/compuertas-logicas.png" width="300" height="300" />
