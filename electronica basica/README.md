@@ -387,7 +387,9 @@ Este es una puerta lógica NOT, que tiene 7 en GND(tierra) y el 14 en 5V(voltios
 
 <img src="Imagenes/Montajede3puertaslógicasconLDR.png" width="500" height="500" />
 
-Primero empezamos con una pila de 6 voltios que tiene un lado positivo y un lado negativo ( en el positivo y el negativo están conectados todos entre sí en dirección horizontal), después tiene un LDR que tiene un terminal conectado en positivo y el otro intermitente está conectado junto con una resistencia de 1000 ohmios y la resistencia está conectado en el negativo, y tiene otro cable conectado en la entrada de puerta 7404 (NOT), después la puerta 7404 tiene el terminal 14 (5V) conectado en el positivo
+Este circuito tiene una pila de 6 voltios, 3 puertas lógicas diferentes, dos pulsadores, un diodoLED, 4 resistencias, cables para conectarlos entre sí y un LDR.
+
+Primero empezamos con una pila de 6 voltios que tiene un lado positivo y un lado negativo ( en el positivo y el negativo están conectados todos entre sí en dirección horizontal), después tiene un LDR que tiene un terminal conectado en positivo y el otro intermitente está conectado junto con una resistencia de 1000 ohmios y la resistencia está conectado en el negativo, y tiene otro cable conectado en la entrada de puerta 7404 (NOT), después la puerta 7404 tiene el terminal 14 (5V) conectado en el positivo y el terminal 7 (GND) en negativo, después la salida se conecta a la entrada de puerta 7408, este también tiene el terminal 7 en negativo y el terminal 14 en positivo, como es un AND tiene la otra entrada en la salida de 7432, este también tiene el terminal 7 en negativo y el terminal 14 en positivo, este tiene dos entrada en los punsadores cuando los pulsadores tienen un terminal positivo y otra terminal a la vez de conectar a la puerta también conectado a una resistencia de 1000 ohmios, que las resistencias estan conectado al negativo, después volvemos a 7408 que tiene la salida conectado a una resistencia de 220 ohmios, cuando también la resistencia esta conectado a un terminal de diodoLED, y el diodoLED tiene la otra terminal conectado en negativo.
 
 
 ## Foto de montaje.
@@ -395,6 +397,8 @@ Primero empezamos con una pila de 6 voltios que tiene un lado positivo y un lado
 | Foto1 | Foto2 | Foto3 |
 | - | - | - |
 | <img src="Imagenes/IMG_9503.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_9504.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_9505.jpeg" width="300" height="300" /> |
+
+El objetivo de este circuito es con la ayuda del LDR y dos pulsadores mediante 3 puertas lógicas que haga funcionar el diodoLED, para que la salida sea lo que tiene que hacer.
 
 ## Tabla de verdad y foto.
 
