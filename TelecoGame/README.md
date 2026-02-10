@@ -44,8 +44,9 @@ Después tenemos un void loop(crear un bucle), dentro tenemos valorsensor = anal
 
 # Foto de montaje con sensor de LDR.
 
-
-
+| Foto 1 | Foto 2 | Foto 3 |
+| - | - | - |
+| <img src="Imagenes/IMG_0819.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0820.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0821.jpeg" width="300" height="300" /> |
 
 # Programación con sensor de LDR.
 
