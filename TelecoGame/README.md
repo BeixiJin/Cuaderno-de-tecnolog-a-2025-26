@@ -22,11 +22,20 @@ Después tenemos un void stup(inicio de programa en que solo fuciona una vez), d
 
 Después tenemos un void loop(crear un bucle), dentro tenemos valorsensor = analogRead(sensorPIN) ( significca quue los valores de valorsensor es igual que la lectura analógica del sensorPIN), tenemos que presion = map(valorsensor, 0, 1023, 0, 100) (significa que la prresion es igual quue el mapeo del valorSensor, que es de 0 a 1023 y el 0 y 100 es los valores que ns marquen en el ordenador), después tenemos Serial.print("Valor de presión: ") (significa que en el monitor serie marcará como nombre de vallor de presión), después tenemos Serial.println(presion) (significa que el monitor serie coge valores de la presion) y al final tenemos un delay(500) (para que tenga un tiimpo dde pausa):
 
+# Video de funcionamiento con sensor de presión.
+
+
+
+
 # Foto de montaje con sensor de humedad.
 
 
 
 # Programación con sensor de humedad.
+
+
+
+# Video de funcionamiento con sensor de humedad.
 
 
 
@@ -40,6 +49,7 @@ Después tenemos un void loop(crear un bucle), dentro tenemos valorsensor = anal
 
 
 
+# Video de funcionamiento con sensor de LDR.
 
 
 
