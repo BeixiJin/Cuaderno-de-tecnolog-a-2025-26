@@ -29,11 +29,13 @@ Después tenemos un void loop(crear un bucle), dentro tenemos valorsensor = anal
 
 # Foto de montaje con sensor de humedad.
 
-
+| Foto 1 | Foto 2 | Foto 3 |
+| - | - | - |
+| <img src="Imagenes/IMG_0816.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0817.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0818.jpeg" width="300" height="300" /> |
 
 # Programación con sensor de humedad.
 
-
+<img src="Imagenes/programacion de humedad.png" width="500" height="500" />
 
 # Video de funcionamiento con sensor de humedad.
 
