@@ -32,9 +32,13 @@ Después tenemos un void loop(crear un bucle), dentro tenemos valorsensor = anal
 | - | - | - |
 | <img src="Imagenes/IMG_0816.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0817.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0818.jpeg" width="300" height="300" /> |
 
+El objetivo de este circuito es que al cambiar de humedad de algo, el valr o sube o baja.
+
 # Programación con sensor de humedad.
 
 <img src="Imagenes/programacion de humedad.png" width="500" height="500" />
+
+
 
 # Video de funcionamiento con sensor de humedad.
 
