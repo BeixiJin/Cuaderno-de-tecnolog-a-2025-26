@@ -50,6 +50,8 @@ El objetivo de este circuito es que al cambiar de humedad de algo, el valr o sub
 | - | - | - |
 | <img src="Imagenes/IMG_0819.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0820.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0821.jpeg" width="300" height="300" /> |
 
+El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta el valoe sube o baja.
+
 # Programación con sensor de LDR.
 
 <img src="Imagenes/sensor de LDR.png" width="300" height="300" />
