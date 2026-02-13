@@ -62,6 +62,8 @@ El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta
 
 # Programación con sensor de temperatura.
 
+<img src="Imagenes/sensor de temperatura.png" width="300" height="300" />
+
 # Video de funcionamiento con sensor de temperatura.
 
 
