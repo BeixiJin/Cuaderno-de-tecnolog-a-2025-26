@@ -24,8 +24,7 @@ Después tenemos un void loop(crear un bucle), dentro tenemos valorsensor = anal
 
 # Video de funcionamiento con sensor de presión.
 
-
-
+ [![](https://img.youtube.com/vi/cS23Cyq-Ufs/0.jpg)](https://www.youtube.com/watch?v=cS23Cyq-Ufs) 
 
 # Foto de montaje con sensor de humedad.
 
