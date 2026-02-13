@@ -38,8 +38,7 @@ Después tenemos un void loop(crear un bucle), dentro tenemos valorsensor = anal
 
 # Video de funcionamiento con sensor de humedad.
 
-
-
+[![](https://img.youtube.com/vi/-ppLgcI7gHQ/0.jpg)](https://www.youtube.com/watch?v=-ppLgcI7gHQ)
 
 # Foto de montaje con sensor de LDR.
 
@@ -49,7 +48,7 @@ Después tenemos un void loop(crear un bucle), dentro tenemos valorsensor = anal
 
 # Programación con sensor de LDR.
 
-
+<img src="Imagenes/sensor de LDR.png" width="300" height="300" />
 
 # Video de funcionamiento con sensor de LDR.
 
