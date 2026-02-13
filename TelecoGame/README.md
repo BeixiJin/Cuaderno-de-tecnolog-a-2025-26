@@ -58,9 +58,11 @@ El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta
 
 # Video de funcionamiento con sensor de LDR.
 
+# Foto de montaje con sensor de temperatura.
 
+# Programación con sensor de temperatura.
 
-
+# Video de funcionamiento con sensor de temperatura.
 
 
 
