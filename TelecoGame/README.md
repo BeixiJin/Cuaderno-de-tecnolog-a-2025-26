@@ -70,13 +70,10 @@ El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta
 
 # Video de funcionamiento con sensor de temperatura.
 
+# Foto de montaje cn sensor de presión.
 
+ <img src="Imagenes/IMG_0900.jpeg" width="300" height="300" />
 
+ <img src="Imagenes/IMG_0901.jpeg" width="300" height="300" />
 
-
-
-
-
-
-
-
+ <img src="Imagenes/IMG_0902.jpeg" width="300" height="300" />
