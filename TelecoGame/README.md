@@ -54,7 +54,7 @@ El objetivo de este circuito es que al cambiar de humedad de algo, el valor o su
 
 <img src="Imagenes/programacion de humedad.png" width="500" height="500" />
 
-Todos los programaciones que tenemos a continuación son iguales, sin embargo los sensores que utilizamos y los nombres de algunos variables son diferentes, en este caso usamos el sensor de humedad y que tiene el nombre de variable se llama humedad. También se hace el mapeo, se marca los datos en monitor serie y todos los demas son iguales.
+Todos los programaciones que tenemos a continuación son iguales, sin embargo que no he incluido de que en el monitor serie marca letras explicativas, los sensores que utilizamos y los nombres de algunos variables son diferentes, en este caso usamos el sensor de humedad y que tiene el nombre de variable se llama humedad. También se hace el mapeo, se marca los datos en monitor serie y todos los demas son iguales.
 
 ## - Video de funcionamiento con sensor de humedad.
 
