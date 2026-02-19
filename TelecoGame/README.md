@@ -70,7 +70,7 @@ El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta
 
 # Video de funcionamiento con sensor de temperatura.
 
-# Foto de montaje con sensor de presión.
+# Foto de montaje con sensor de presión lineal.
 
  <img src="Imagenes/IMG_0900.jpeg" width="300" height="300" />
 
@@ -78,11 +78,11 @@ El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta
 
  <img src="Imagenes/IMG_0902.jpeg" width="300" height="300" />
 
-# Programación con sensor de presión.
+# Programación con sensor de presión lineal.
 
+ <img src="Imagenes/programacion de presion.png" width="300" height="300" />
 
-
-# Video de funcionamiento con sensor de presión.
+# Video de funcionamiento con sensor de presión lineal.
 
 
 
