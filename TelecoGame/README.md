@@ -10,7 +10,7 @@ Estos son programaciones en el torneo que participaremos de tecnologia.
 
 <img src="Imagenes/sensor_pir.jpg" width="500" height="500" />
 
-El onjetivo de este circuito es que detecta personas, si detecta manda una señal y si no manda otra señal.
+El objetivo de este circuito es que detecta personas, si detecta manda una señal y si no manda otra señal.
 
 # Sensor de presión.
 
