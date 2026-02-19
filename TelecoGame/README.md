@@ -22,7 +22,7 @@ El objetivo de este circuito es que detecta personas, si detecta manda una seña
 | - | - | - |
 | <img src="Imagenes/IMG_0860.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0861.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0862.jpeg" width="300" height="300" /> |
 
-El objetivo de este circuito es que tenemos un sensor de presión, cuando no le hacemmos nada tiene un valor y cuando le pulsamor el valor cami depende dde la fuenta que le metemos al sensor.
+El objetivo de este circuito es que tenemos un sensor de presión, cuando no le hacemmos nada tiene un valor y cuando le pulsamos el valor cambia depende de la fuenza que le metemos al sensor.
 
 ## - Programación con sensor de presión.
 
@@ -54,7 +54,7 @@ El objetivo de este circuito es que al cambiar de humedad de algo, el valor o su
 
 <img src="Imagenes/programacion de humedad.png" width="500" height="500" />
 
-Todos los porgramaciones que tenemos a continuación son iguales, sin embargo los sensores que utilizamos y los nombres de algunos variables son diferentes, en este caso usamos el sensor de humedad y que tiene el nombre de variable se llama humedad. También se hace el mapeo, se marca los datos en monitor serie y todos los demas son iguales.
+Todos los programaciones que tenemos a continuación son iguales, sin embargo los sensores que utilizamos y los nombres de algunos variables son diferentes, en este caso usamos el sensor de humedad y que tiene el nombre de variable se llama humedad. También se hace el mapeo, se marca los datos en monitor serie y todos los demas son iguales.
 
 ## - Video de funcionamiento con sensor de humedad.
 
@@ -98,7 +98,7 @@ El objetivo de este circuito es que al cambiar la temperatura el valor sube o ba
 
 <img src="Imagenes/sensor de temperatura.png" width="300" height="300" />
 
-En este caso usamos el sensor de temperatura, consiste en cambiar la temperatura que detecta en sensor y marcarlo en el monitor serie, en el video se puede ver, al acercar el mechero encendido, el valor que da en el monitor serie iba subiendo,y si lo apagamos el valor iba poco a poco bajando.
+En este caso usamos el sensor de temperatura y de variable temperatura y grados, consiste en cambiar la temperatura que detecta en sensor y marcarlo en el monitor serie, en el video se puede ver, al acercar el mechero encendido, el valor que da en el monitor serie iba subiendo,y si lo apagamos el valor iba poco a poco bajando.
 
 ## - Video de funcionamiento con sensor de temperatura.
 
@@ -120,7 +120,7 @@ El objetivo de este circuito funciona en que al presionarlo el valor sube  baja 
 
  <img src="Imagenes/programacion de presion.png" width="300" height="300" />
 
-En este caso usamos el sensor de presión lineal, todos los programaciones son iguales, es diferente al de presión normal en que es más largo que es lineal en vez de directo, pero también hace el mapeo, marca los datos en el monitor serie y todos los demás son iguales.
+En este caso usamos el sensor de presión lineal y de variable presión , todos los programaciones son iguales, es diferente al de presión normal en que es más largo que es lineal en vez de directo, pero también hace el mapeo, marca los datos en el monitor serie y todos los demás son iguales.
 
 ## - Video de funcionamiento con sensor de presión lineal.
 
