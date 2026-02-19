@@ -70,13 +70,13 @@ Este es el video del sensor de humedad funcionando.
 | - | - | - |
 | <img src="Imagenes/IMG_0819.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0820.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0821.jpeg" width="300" height="300" /> |
 
-El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta el valoe sube o baja.
+El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta el valor sube o baja.
 
 ## - Programación con sensor de LDR.
 
 <img src="Imagenes/sensor de LDR.png" width="300" height="300" />
 
-En este caso usamos el sensor de LDR y el nombre de variable se llama cantidadluz, que sirve en cambiar la luminosidad y el valor va cambiando ,y se cambia entre 0-100, también se usa el mapeo, loa datos se marca en monitor serie y todos los demás son iguales.
+En este caso usamos el sensor de LDR y el nombre de variable se llama cantidadluz, que sirve en cambiar la luminosidad y el valor va cambiando ,y se cambia entre 0-100, también se usa el mapeo, los datos se marca en monitor serie y todos los demás son iguales.
 
 ## - Video de funcionamiento con sensor de LDR.
 
