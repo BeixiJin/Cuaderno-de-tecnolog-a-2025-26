@@ -10,7 +10,7 @@ Estos son programaciones en el torneo que participaremos de tecnologia.
 | - | - | - |
 | <img src="Imagenes/IMG_0860.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0861.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0862.jpeg" width="300" height="300" /> |
 
-El objetivo de este circuito es que tenemos un sensor de presión,, cuando no le hacemmos nada tiene un valor y cuando le pulsamor el valor cami depende dde la fuenta que le metemos al sensor.
+El objetivo de este circuito es que tenemos un sensor de presión, cuando no le hacemmos nada tiene un valor y cuando le pulsamor el valor cami depende dde la fuenta que le metemos al sensor.
 
 # Programación con sensor de presión.
 
@@ -32,7 +32,7 @@ Después tenemos un void loop(crear un bucle), dentro tenemos valorsensor = anal
 | - | - | - |
 | <img src="Imagenes/IMG_0816.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0817.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0818.jpeg" width="300" height="300" /> |
 
-El objetivo de este circuito es que al cambiar de humedad de algo, el valr o sube o baja.
+El objetivo de este circuito es que al cambiar de humedad de algo, el valor o sube o baja.
 
 # Programación con sensor de humedad.
 
@@ -72,11 +72,11 @@ El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta
 
 # Foto de montaje con sensor de presión lineal.
 
- <img src="Imagenes/IMG_0900.jpeg" width="300" height="300" />
+| Foto 1 | Foto 2 | Foto 3 |
+| - | - | - |
+| <img src="Imagenes/IMG_0900.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0901.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0902.jpeg" width="300" height="300" /> |
 
- <img src="Imagenes/IMG_0901.jpeg" width="300" height="300" />
-
- <img src="Imagenes/IMG_0902.jpeg" width="300" height="300" />
+El objetivo de este circuito funciona en que al presionarlo el valor sube  baja depende de la fuerza que le metes. 
 
 # Programación con sensor de presión lineal.
 
