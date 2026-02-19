@@ -72,6 +72,8 @@ El objetivo de este circuito es que al cambiar la temperatura el valor sube o ba
 
 # Video de funcionamiento con sensor de temperatura.
 
+
+
 # Foto de montaje con sensor de presión lineal.
 
 | Foto 1 | Foto 2 | Foto 3 |
@@ -86,8 +88,7 @@ El objetivo de este circuito funciona en que al presionarlo el valor sube  baja 
 
 # Video de funcionamiento con sensor de presión lineal.
 
-
-
+[![](https://img.youtube.com/vi/dv9qfSfpy9c/0.jpg)](https://www.youtube.com/watch?v=dv9qfSfpy9c)
 
 
 
