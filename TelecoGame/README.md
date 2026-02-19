@@ -58,6 +58,8 @@ El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta
 
 # Video de funcionamiento con sensor de LDR.
 
+[![](https://img.youtube.com/vi/Yh9sCnXlxm4/0.jpg)](https://www.youtube.com/watch?v=Yh9sCnXlxm4)
+
 # Foto de montaje con sensor de temperatura.
 
 | Foto 1 | Foto 2 | Foto 3 |
