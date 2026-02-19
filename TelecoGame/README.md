@@ -76,7 +76,7 @@ El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta
 
 <img src="Imagenes/sensor de LDR.png" width="300" height="300" />
 
-En este caso usamos el sensor de LDR y el nombre de variable se llama cantidadluz, que sirve en cambiar la luminosidad el valor va cambiando,y se cambia entre 0-100, también se usa el mapeo, loa datos se marca en monitor serie y todos los demás son iguales.
+En este caso usamos el sensor de LDR y el nombre de variable se llama cantidadluz, que sirve en cambiar la luminosidad y el valor va cambiando ,y se cambia entre 0-100, también se usa el mapeo, loa datos se marca en monitor serie y todos los demás son iguales.
 
 ## - Video de funcionamiento con sensor de LDR.
 
