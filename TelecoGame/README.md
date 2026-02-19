@@ -1,9 +1,14 @@
 Estos son programaciones en el torneo que participaremos de tecnologia.
 
 # Sensor de PIR.
-## - Porgramación de PIR
+
+## - Porgramación con sensor de PIR.
 
 <img src="Imagenes/programacion PIR.png" width="500" height="500" />
+
+## - Foto de montaje con sensor de PIR.
+
+
 
 # Sensor de presión.
 
@@ -29,6 +34,8 @@ Después tenemos un void loop(crear un bucle), dentro tenemos valorsensor = anal
 
  [![](https://img.youtube.com/vi/cS23Cyq-Ufs/0.jpg)](https://www.youtube.com/watch?v=cS23Cyq-Ufs) 
 
+Este es el video del sensor de presión funcionando.
+
 # Sensor de humedad.
 
 ## - Foto de montaje con sensor de humedad.
@@ -49,6 +56,8 @@ El objetivo de este circuito es que al cambiar de humedad de algo, el valor o su
 
 [![](https://img.youtube.com/vi/-ppLgcI7gHQ/0.jpg)](https://www.youtube.com/watch?v=-ppLgcI7gHQ)
 
+Este es el video del sensor de humedad funcionando.
+
 # Sensor de LDR.
 
 ## - Foto de montaje con sensor de LDR.
@@ -66,6 +75,8 @@ El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta
 ## - Video de funcionamiento con sensor de LDR.
 
 [![](https://img.youtube.com/vi/Yh9sCnXlxm4/0.jpg)](https://www.youtube.com/watch?v=Yh9sCnXlxm4)
+
+Este es el video del sensor de LDR funcionando.
 
 # Sensor de temperatura.
 
@@ -85,6 +96,8 @@ El objetivo de este circuito es que al cambiar la temperatura el valor sube o ba
 
 
 
+Este es el video del sensor de temperatura funcionando.
+
 # Sensor de presión lineal.
 
 ## - Foto de montaje con sensor de presión lineal.
@@ -103,7 +116,7 @@ El objetivo de este circuito funciona en que al presionarlo el valor sube  baja 
 
 [![](https://img.youtube.com/vi/dv9qfSfpy9c/0.jpg)](https://www.youtube.com/watch?v=dv9qfSfpy9c)
 
-
+Este es el video del sensor de presión lineal funcionando.
 
 
 
