@@ -8,7 +8,9 @@ Estos son programaciones en el torneo que participaremos de tecnologia.
 
 ## - Foto de montaje con sensor de PIR.
 
+<img src="Imagenes/sensor_pir.jpg" width="500" height="500" />
 
+El onjetivo de este circuito es que detecta personas, si detecta da una señal y si no daotra señal.
 
 # Sensor de presión.
 
