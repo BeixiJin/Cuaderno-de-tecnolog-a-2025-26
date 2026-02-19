@@ -2,7 +2,7 @@ Estos son programaciones en el torneo que participaremos de tecnologia.
 
 # Sensor de PIR.
 
-## - Porgramación con sensor de PIR.
+## - Programación con sensor de PIR.
 
 <img src="Imagenes/programacion PIR.png" width="500" height="500" />
 
