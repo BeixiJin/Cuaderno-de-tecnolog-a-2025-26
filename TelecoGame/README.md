@@ -52,7 +52,7 @@ El objetivo de este circuito es que al cambiar de humedad de algo, el valor o su
 
 <img src="Imagenes/programacion de humedad.png" width="500" height="500" />
 
-
+Todos los porgramaciones que tenemos a continuación son iguales, sin embargo los sensores que utilizamos y los nombres de algunos variables son diferentes, en este caso usamos el sensor de humedad y que tiene el nombre de variable se llama humedad. También se hace el mapeo, se marca los datos en monitor serie y todos los demas son iguales.
 
 ## - Video de funcionamiento con sensor de humedad.
 
@@ -74,6 +74,8 @@ El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta
 
 <img src="Imagenes/sensor de LDR.png" width="300" height="300" />
 
+En este caso usamos el sensor de LDR y el nombre de variable se llama cantidadluz, que sirve en cambiar la luminosidad el valor va cambiando,y se cambia entre 0-100, también se usa el mapeo, loa datos se marca en monitor serie y todos los demás son iguales.
+
 ## - Video de funcionamiento con sensor de LDR.
 
 [![](https://img.youtube.com/vi/Yh9sCnXlxm4/0.jpg)](https://www.youtube.com/watch?v=Yh9sCnXlxm4)
@@ -94,6 +96,8 @@ El objetivo de este circuito es que al cambiar la temperatura el valor sube o ba
 
 <img src="Imagenes/sensor de temperatura.png" width="300" height="300" />
 
+En este caso usamos el sensor de temperatura, consiste en cambiar la temperatura que detecta en sensor y marcarlo en el monitor serie, en el video se puede ver, al acercar el mechero encendido, el valor que da en el monitor serie iba subiendo,y si lo apagamos el valor iba poco a poco bajando.
+
 ## - Video de funcionamiento con sensor de temperatura.
 
 [![](https://img.youtube.com/vi/UPrbg1qrWKQ/0.jpg)](https://www.youtube.com/watch?v=UPrbg1qrWKQ)
@@ -113,6 +117,8 @@ El objetivo de este circuito funciona en que al presionarlo el valor sube  baja 
 ## - Programación con sensor de presión lineal.
 
  <img src="Imagenes/programacion de presion.png" width="300" height="300" />
+
+En este caso usamos el sensor de presión lineal, todos los programaciones son iguales, es diferente al de presión normal en que es más largo que es lineal en vez de directo, pero también hace el mapeo, marca los datos en el monitor serie y todos los demás son iguales.
 
 ## - Video de funcionamiento con sensor de presión lineal.
 
