@@ -6,6 +6,8 @@ Estos son programaciones en el torneo que participaremos de tecnologia.
 
 <img src="Imagenes/programacion PIR.png" width="500" height="500" />
 
+Este es el programación del PIR y esta explicado todos dentro de la programación.
+
 ## - Foto de montaje con sensor de PIR.
 
 <img src="Imagenes/sensor_pir.jpg" width="500" height="500" />
