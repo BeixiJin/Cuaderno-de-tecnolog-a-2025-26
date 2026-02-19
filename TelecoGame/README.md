@@ -96,7 +96,7 @@ El objetivo de este circuito es que al cambiar la temperatura el valor sube o ba
 
 ## - Video de funcionamiento con sensor de temperatura.
 
-
+[![](https://img.youtube.com/vi/UPrbg1qrWKQ/0.jpg)](https://www.youtube.com/watch?v=UPrbg1qrWKQ)
 
 Este es el video del sensor de temperatura funcionando.
 
