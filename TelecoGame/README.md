@@ -64,6 +64,8 @@ El objetivo de este circuito es que al cambiar la cantidad de luz la que detecta
 | - | - | - |
 | <img src="Imagenes/IMG_0851.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0852.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_0853.jpeg" width="300" height="300" /> |
 
+El objetivo de este circuito es que al cambiar la temperatura el valor sube o baja.
+
 # Programación con sensor de temperatura.
 
 <img src="Imagenes/sensor de temperatura.png" width="300" height="300" />
