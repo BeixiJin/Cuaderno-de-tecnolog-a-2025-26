@@ -82,7 +82,7 @@ En este caso usamos el sensor de LDR y el nombre de variable se llama cantidadlu
 
 [![](https://img.youtube.com/vi/Yh9sCnXlxm4/0.jpg)](https://www.youtube.com/watch?v=Yh9sCnXlxm4)
 
-Este es el video del sensor de LDR funcionando.
+Este es el video del sensor de LDR funcionando ( hemos usado el video del grupo de Adrián Carrillo y Iker Sucino porque nuestra placa no funcionaba ).
 
 # Sensor de temperatura.
 
