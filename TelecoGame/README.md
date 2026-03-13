@@ -134,6 +134,12 @@ Este es el video del sensor de presión lineal funcionando.
 
 En este trabajo consiste en que nosotros hemos diseñado un invernadero 3D de tamaño de largo 4 vigas (16cm de largo) y ancho 3 vigas, también tiene pilares para que tenga superficie para que se sujete, el objetivo es montar un invernadero fácil y ligero para llevarlo a unas conpetición de tecnologia.
 
+## - Vigas y pilares de invernadero.
+
+<img src="Imagenes/Swanky Kasi.png" width="300" height="300" />
+
+ Estos son diseños 3D de vigas y pilares, lo que hemos hecho es que cada uno en individual hace un diseño de vigas y pilares para que después puedan adjuntarse con los suelos y los lados.
+
 ## - Suelo de invernadero.
 
 | foto 1 | foto 2 |
@@ -144,11 +150,7 @@ Estos dos son algunos suelos que estado diseñandolo yo, lo que hemos hecho es q
 
 En el caso de 4B es igual pero tenemos que dar cuenta de una cosa, todos los largos de los suelos miden 15cm pero todas las piezas 4 tiene largo 16cm, eso es porque depende de lo largo de las vigas y el pilar los suelos quedarian muy adjuntados, por eso hemos decidido alargarlo 1 cm más para que no sea tan apretujado, y el 4B tiene dos viseras en que uno esta en el lado izquierdo y el otro abajo, y un entrante que esta arriba.
 
-## - Vigas y pilares de invernadero.
 
-<img src="Imagenes/Swanky Kasi.png" width="300" height="300" />
-
- Estos son diseños 3D de vigas y pilares, lo que hemos hecho es que cada uno en individual hace un diseño de vigas y pilares para que después puedan adjuntarse con los suelos y los lados.
 
 
 
