@@ -142,12 +142,13 @@ En este trabajo consiste en que nosotros hemos diseñado un invernadero 3D de ta
 
 Estos dos son algunos suelos que estado diseñandolo yo, lo que hemos hecho es que cada uno del grupo hace una parte de suelo y son 12, los diseños tienen que ser todos iguales para que después al montarlo que se encaje, están dividido desde 1-4 y de A-C, el 3A es añadir una visera en el lado izquierdo y hacer dos entradas, uno por arriba y otro por el lado derecho para que después se pueda encajar con otros.
 
-En el caso de 4B es igual pero tenemos que dar cuenta de una cosa, todos los largos de los suelos miden 15cm pero todas las piezas B tiene largo 16cm, eso es porque depende de lo largo de las vigas y el pilar los suelos quedarian muy adjuntados, por eso hemos decidido alargarlo 1 cm más para que no sea tan apretujado, y el 4B tiene dos viseras en que uno esta en el lado izquierdo y el otro abajo, y un entrante que esta arriba.
+En el caso de 4B es igual pero tenemos que dar cuenta de una cosa, todos los largos de los suelos miden 15cm pero todas las piezas 4 tiene largo 16cm, eso es porque depende de lo largo de las vigas y el pilar los suelos quedarian muy adjuntados, por eso hemos decidido alargarlo 1 cm más para que no sea tan apretujado, y el 4B tiene dos viseras en que uno esta en el lado izquierdo y el otro abajo, y un entrante que esta arriba.
 
+## - Vigas y pilares de invernadero.
 
+<img src="Imagenes/Swanky Kasi.png" width="300" height="300" />
 
- 
-
+ Estos son diseños 3D de vigas y pilares, lo que hemos hecho es que cada uno en individual hace un diseño de vigas y pilares para que después puedan adjuntarse con los suelos y los lados.
 
 
 
