@@ -128,12 +128,20 @@ En este caso usamos el sensor de presión lineal y de variable presión , todos 
 
 Este es el video del sensor de presión lineal funcionando.
 
+# Diseño de invernadero.
 
+## Suelo de invernadero.
 
-
+<img src="Imagenes/Fantabulous Sango (1).png" width="300" height="300" />
 
 
 
 
 
  
+
+
+
+
+
+
