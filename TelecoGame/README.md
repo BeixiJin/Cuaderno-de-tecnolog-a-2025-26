@@ -168,7 +168,7 @@ Este es el montaje final pero sin terminar, se puede ver en la foto los suelos e
 
  <img src="Imagenes/impresora.jpg" width="300" height="300" /> 
 
-Este es la impresora que nos hace las las vigas, el suelo y los pilares. Se usa de material PLA para imprimir las cosas.
+Este es la impresora que nos hace las las vigas, el suelo y los pilares, se usa de material PLA para imprimir las cosas, la impresora es pequeña, por eso solo se puede imprimir piezas pequeñas para que después lo conectamos y juntamos todos.
 
 
 
