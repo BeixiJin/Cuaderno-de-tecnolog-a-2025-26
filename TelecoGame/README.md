@@ -150,9 +150,27 @@ Estos dos son algunos suelos que estado diseñandolo yo, lo que hemos hecho es q
 
 En el caso de 4B es igual pero tenemos que dar cuenta de una cosa, todos los largos de los suelos miden 15cm pero todas las piezas 4 tiene largo 16cm, eso es porque depende de lo largo de las vigas y el pilar los suelos quedarian muy adjuntados, por eso hemos decidido alargarlo 1 cm más para que no sea tan apretujado, y el 4B tiene dos viseras en que uno esta en el lado izquierdo y el otro abajo, y un entrante que esta arriba.
 
-## - foto del suelo entero.
+## - Foto del suelo entero.
 
 <img src="Imagenes/foto suelo entero.png" width="300" height="300" />
 
 Este es el diseño del suelo de invernadero entero en que se pueda ver que cada una de las piezas estan conectados entre si y no fallan en ningun lado. Cada fila tiene asignado una letra y cada columna tiene unos números iguales. 
+
+## - Foto de montaje real.
+
+| Foto 1 | Foto 2 | Foto 3 |
+| - | - | - |
+| <img src="Imagenes/IMG_1280.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_1281.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_1282.jpeg" width="300" height="300" /> |
+
+Este es el montaje final pero sin terminar, se puede ver en la foto ls suelos estan sobresalidos, eso después se alija, después 
+
+
+
+
+
+
+
+
+
+
 
