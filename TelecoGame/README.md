@@ -162,7 +162,7 @@ Este es el diseño del suelo de invernadero entero en que se pueda ver que cada 
 | - | - | - |
 | <img src="Imagenes/IMG_1280.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_1281.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_1282.jpeg" width="300" height="300" /> |
 
-Este es el montaje final pero sin terminar, se puede ver en la foto ls suelos estan sobresalidos, eso después se alija, después 
+Este es el montaje final pero sin terminar, se puede ver en la foto ls suelos estan sobresalidos, eso después se alija, después los que no estan conectados irian conectados juntos al diseño y es más grande. 
 
 
 
