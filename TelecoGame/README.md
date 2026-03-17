@@ -138,7 +138,7 @@ En este trabajo consiste en que nosotros hemos diseñado un invernadero 3D de ta
 
 <img src="Imagenes/Swanky Kasi.png" width="300" height="300" />
 
- Estos son diseños 3D de vigas y pilares, lo que hemos hecho es que cada uno en individual hace un diseño de vigas y pilares para que después puedan adjuntarse con los suelos y los lados.
+ Estos son diseños 3D de vigas y pilares, lo que hemos hecho es que cada uno en individual hace un diseño de vigas y pilares para que después puedan adjuntarse con los suelos y los lados. Todos los pilares estan hecho por entrantes para que después se pueda conectar a los vigas, y las vigas unos estan hecho de dos saliente y otos de un entrante y un salente, para que se puedan conectar entre si.
 
 ## - Suelo de invernadero.
 
