@@ -132,7 +132,7 @@ Este es el video del sensor de presión lineal funcionando.
 
 <img src="Imagenes/foto de invernadero.png" width="300" height="300" />
 
-En este trabajo consiste en que nosotros hemos diseñado un invernadero 3D de tamaño de largo 4 vigas (16cm de largo) y ancho 3 vigas, también tiene pilares para que tenga superficie para que se sujete, el objetivo es montar un invernadero fácil y ligero para llevarlo a unas conpetición de tecnologia.
+En este trabajo consiste en que nosotros hemos diseñado un invernadero 3D de tamaño de largo 4 vigas (16cm de largo) y ancho 3 vigas, también tiene pilares para que tenga superficie para que se sujete, el objetivo es montar un invernadero fácil y ligero para llevarlo a una competición de tecnologia.
 
 ## - Vigas y pilares de invernadero.
 
