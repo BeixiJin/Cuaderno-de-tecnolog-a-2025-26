@@ -154,5 +154,5 @@ En el caso de 4B es igual pero tenemos que dar cuenta de una cosa, todos los lar
 
 <img src="Imagenes/foto suelo entero.png" width="300" height="300" />
 
-Este es el diseño del suelo de invernadero entero en que se pueda ver que cada una de las piezas estan conectados entre si y no fallan en ningun lado.
+Este es el diseño del suelo de invernadero entero en que se pueda ver que cada una de las piezas estan conectados entre si y no fallan en ningun lado. Cada fila tiene asignado una letra y cada columna tiene unos números iguales. 
 
