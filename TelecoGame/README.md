@@ -132,13 +132,13 @@ Este es el video del sensor de presión lineal funcionando.
 
 <img src="Imagenes/foto de invernadero.png" width="300" height="300" />
 
-En este trabajo consiste en que nosotros hemos diseñado un invernadero 3D de tamaño de largo 4 vigas (16cm de largo) y ancho 3 vigas, también tiene pilares para que tenga superficie para que se sujete, el objetivo es montar un invernadero fácil y ligero para llevarlo a una competición de tecnologia.
+En este trabajo consiste en que nosotros hemos diseñado un invernadero 3D de tamaño de largo 4 vigas (16cm de largo) y ancho 3 vigas, también tiene pilares para que tenga superficie para que se sujete, el objetivo es montar un invernadero fácil y ligero para llevarlo a una competición de tecnología.
 
 ## - Vigas y pilares de invernadero.
 
 <img src="Imagenes/Swanky Kasi.png" width="300" height="300" />
 
- Estos son diseños 3D de vigas y pilares, lo que hemos hecho es que cada uno en individual hace un diseño de vigas y pilares para que después puedan adjuntarse con los suelos y los lados. Todos los pilares estan hecho por entrantes para que después se pueda conectar a los vigas, y las vigas unos estan hecho de dos saliente y otos de un entrante y un salente, para que se puedan conectar entre si.
+Estos son diseños 3D de vigas y pilares, lo que hemos hecho es que cada uno en individual hace un diseño de vigas y pilares para que después puedan adjuntarse con los suelos y los lados. Todos los pilares están hechos por entrantes para que después se pueda conectar a los vigas, y las vigas unos están hechas de dos salientes y otros de un entrante y un saliente, para que se puedan conectar entre sí.
 
 ## - Suelo de invernadero.
 
@@ -146,15 +146,15 @@ En este trabajo consiste en que nosotros hemos diseñado un invernadero 3D de ta
 | - | - |
 | <img src="Imagenes/Fantabulous Sango (1).png" width="300" height="300" /> | <img src="Imagenes/Powerful Krunk.png" width="300" height="300" /> | 
 
-Estos dos son algunos suelos que estado diseñandolo yo, lo que hemos hecho es que cada uno del grupo hace una parte de suelo y son 12, los diseños tienen que ser todos iguales para que después al montarlo que se encaje, están dividido desde 1-4 y de A-C, el 3A es añadir una visera en el lado izquierdo y hacer dos entradas, uno por arriba y otro por el lado derecho para que después se pueda encajar con otros.
+Estos dos son algunos suelos que estado diseñando yo, lo que hemos hecho es que cada uno del grupo hace una parte de suelo y son 12, los diseños tienen que ser todos iguales para que después al montarlo que se encaje, están dividido desde 1-4 y de A-C, el 3A es añadir una visera en el lado izquierdo y hacer dos entradas, uno por arriba y otro por el lado derecho para que después se pueda encajar con otros.
 
-En el caso de 4B es igual pero tenemos que dar cuenta de una cosa, todos los largos de los suelos miden 15cm pero todas las piezas 4 tiene largo 16cm, eso es porque depende de lo largo de las vigas y el pilar los suelos quedarian muy adjuntados, por eso hemos decidido alargarlo 1 cm más para que no sea tan apretujado, y el 4B tiene dos viseras en que uno esta en el lado izquierdo y el otro abajo, y un entrante que esta arriba.
+En el caso de 4B es igual pero tenemos que dar cuenta de una cosa, todos los largos de los suelos miden 15 cm pero todas las piezas 4 tiene largo 16 cm, eso es porque depende de lo largo de las vigas y el pilar los suelos quedarían muy adjuntados, por eso hemos decidido alargarlo 1 cm más para que no sea tan apretujado, y el 4B tiene dos viseras en que uno está en el lado izquierdo y el otro abajo, y un entrante que está arriba.
 
 ## - Foto del suelo entero.
 
 <img src="Imagenes/foto suelo entero.png" width="300" height="300" />
 
-Este es el diseño del suelo de invernadero entero en que se pueda ver que cada una de las piezas estan conectados entre si y no fallan en ningun lado. Cada fila tiene asignado una letra y cada columna tiene unos números iguales. 
+Este es el diseño del suelo de invernadero entero en que se pueda ver que cada una de las piezas están conectadas entre sí y no fallan en ningún lado. Cada fila tiene asignada una letra y cada columna tiene unos números iguales. 
 
 ## - Foto de montaje real.
 
@@ -162,7 +162,7 @@ Este es el diseño del suelo de invernadero entero en que se pueda ver que cada 
 | - | - | - |
 | <img src="Imagenes/IMG_1280.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_1281.jpeg" width="300" height="300" /> | <img src="Imagenes/IMG_1282.jpeg" width="300" height="300" /> |
 
-Este es el montaje final pero sin terminar, se puede ver en la foto ls suelos estan sobresalidos, eso después se alija, después los que no estan conectados irian conectados juntos al diseño y es más grande. 
+Este es el montaje final pero sin terminar, se puede ver en la foto los suelos están sobresalidos, eso después se alima, después los que no están conectados irían conectados juntos al diseño y es más grande.
 
 
 
