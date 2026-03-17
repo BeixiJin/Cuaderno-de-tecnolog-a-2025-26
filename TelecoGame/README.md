@@ -164,11 +164,11 @@ Este es el diseño del suelo de invernadero entero en que se pueda ver que cada 
 
 Este es el montaje final pero sin terminar, se puede ver en la foto los suelos están sobresalidos, eso después se alima, después los que no están conectados irían conectados juntos al diseño y es más grande.
 
+## - Foto de impresora.
 
+ <img src="Imagenes/impresora.jpg" width="300" height="300" /> 
 
-
-
-
+Este es la impresora que nos hace las las vigas, el suelo y los pilares. Se usa de material PLA para imprimir las cosas.
 
 
 
