@@ -170,6 +170,15 @@ Este es el montaje final pero sin terminar, se puede ver en la foto los suelos e
 
 Este es la impresora que nos hace las las vigas, el suelo y los pilares, se usa de material PLA para imprimir las cosas, la impresora es pequeña, por eso solo se puede imprimir piezas pequeñas para que después lo conectamos y juntamos todos.
 
+## - Foto de invernadero entero vidareal.
+
+<img src="Imagenes/IMG_1735.jpeg" width="300" height="300" />
+
+Este es el montaje final de invernadero, como podeis ver, estan unidas los suelos, las vigas y los pilares, los suelos estan unidos con cinta doble cara, y las vigas y los pilares tienen el tamaño justo de encajarlo.
+
+
+
+
 
 
 
