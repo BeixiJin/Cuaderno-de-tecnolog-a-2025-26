@@ -182,6 +182,15 @@ Este es el montaje final de invernadero, como podeis ver, estan unidas los suelo
 | - | - | - | - |
 | <img src="Imagenes/foto programacion bj.png" width="300" height="300" /> | <img src="Imagenes/foto2 programacion bj.png" width="300" height="300" /> | <img src="Imagenes/foto 3 programacion bj.png" width="300" height="300" /> | <img src="Imagenes/foto4 programacion bj.png" width="300" height="300" /> |
 
+**_Parte 1:_** En la primera parte son de los variables,
+
+**_Parte 2:_**
+
+**_Parte 3:_**
+
+**_Parte 4:_**
+
+
 
 
 
