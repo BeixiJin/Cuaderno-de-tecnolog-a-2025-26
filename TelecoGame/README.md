@@ -176,9 +176,11 @@ Este es la impresora que nos hace las las vigas, el suelo y los pilares, se usa 
 
 Este es el montaje final de invernadero, como podeis ver, estan unidas los suelos, las vigas y los pilares, los suelos estan unidos con cinta doble cara, y las vigas y los pilares tienen el tamaño justo de encajarlo.
 
+## - Foto de programación final.
 
-
-
+| Parte 1 | Parte 2 | Parte 3 | Parte 4 |
+| - | - | - | - |
+| <img src="Imagenes/foto programacion bj.png" width="300" height="300" /> | <img src="Imagenes/foto2 programacion bj.png" width="300" height="300" /> | <img src="Imagenes/foto 3 programacion bj.png" width="300" height="300" /> | <img src="Imagenes/foto4 programacion bj.png" width="300" height="300" /> |
 
 
 
