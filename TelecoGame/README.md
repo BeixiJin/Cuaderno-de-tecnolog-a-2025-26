@@ -180,7 +180,7 @@ Este es el montaje final de invernadero, como podeis ver, estan unidas los suelo
 
 | Parte 1 | Parte 2 | Parte 3 | Parte 4 |
 | - | - | - | - |
-| <img src="Imagenes/foto programacion bj.png" width="300" height="300" /> | <img src="Imagenes/foto2 programacion bj.png" width="300" height="300" /> | <img src="Imagenes/foto 3 programacion bj.png" width="300" height="300" /> | <img src="Imagenes/foto4 programacion bj.png" width="300" height="300" /> |
+| <img src="Imagenes/1º Foto.png" width="300" height="300" /> | <img src="Imagenes/2º foto.png" width="300" height="300" /> | <img src="Imagenes/3º foto.png" width="300" height="300" /> | <img src="Imagenes/4º foto.png" width="300" height="300" /> |
 
 **_Parte 1:_** En la primera parte son de los variables,
 
