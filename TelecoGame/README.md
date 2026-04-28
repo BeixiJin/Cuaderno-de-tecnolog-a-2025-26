@@ -194,7 +194,7 @@ Este es el montaje final de invernadero, como podeis ver, estan unidas los suelo
 
 ## - Exclavo.
 
-
+ <img src="Imagenes/5º Foto.png" width="300" height="300" />
 
 
 
