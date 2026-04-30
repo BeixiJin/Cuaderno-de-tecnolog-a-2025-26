@@ -221,12 +221,14 @@ Ahora vamos al **loop**, en el tenemos el funcionamiento, en que decimos si el b
 _**Configuración mediante el modo AT :**_
 Tanto para maestro como para esclavo hay que conectar la patilla "EN" o "KEY" del módulo HC-05 a 5V, un a vez hecho, se deja presionado el botón reset y se conecta Arduino por USB al ordenador desde el que vamos a hacer la configuración. Acto seguido se escribe lo siguiente en el Monitor Serie:
 
-ESCLAVO:
-AT ( Le mandamos al monitor serie **AT**, y si nos devuelve un **OK**, significa que esta bien conectado y que si funciona )
+_**ESCLAVO:**_
+
+ATi ( Le mandamos al monitor serie **AT**, y si nos devuelve un **OK**, significa que esta bien conectado y que si funciona )
+
 AT+ROLE=0 ( Le mandamos al monitor serie un **0**, y el cero significa que esta obligadamente ser esclavo )
 AT+ADDR? ( Le decimos que el esclavo nos den su clave **MAC** para despues poder mandarselo al maestro.
 
-MAESTRO:
+_**MAESTRO:**_
 AT
 AT+ROLE=1
 AT+BIND= "escribir directamente la dirección MAC del esclavo" (sustituir los ":" por ",")
