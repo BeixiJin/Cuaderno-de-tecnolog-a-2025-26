@@ -192,11 +192,11 @@ Este es el montaje final de invernadero, como podeis ver, estan unidas los suelo
 
 **_Parte 4:_**
 
-## - Exclavo.
+## - Esclavo.
 
  <img src="Imagenes/5º foto.png" width="300" height="300" />
 
-
+**Explicación:** 
 
 
 
@@ -207,7 +207,7 @@ Este es el montaje final de invernadero, como podeis ver, estan unidas los suelo
 <img src="Imagenes/6º foto.png" width="300" height="300" />
 
 
-
+**Explicación:** 
 
 
 
