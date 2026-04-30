@@ -217,7 +217,35 @@ Después entramos al **setup**, que en dentro de el nos dice que tiene una veloc
 
 Ahora vamos al **loop**, en el tenemos el funcionamiento, en que decimos si el bluetooth esta disponible manda una señal desde el bluetooth hasta el monitor serie y así viceversa.
 
+
+_**Configuración mediante el modo AT :**_
+Tanto para maestro como para esclavo hay que conectar la patilla "EN" o "KEY" del módulo HC-05 a 5V, un a vez hecho, se deja presionado el botón reset y se conecta Arduino por USB al ordenador desde el que vamos a hacer la configuración. Acto seguido se escribe lo siguiente en el Monitor Serie:
+
+ESCLAVO:
+AT ( Le mandamos al monitor serie **AT**, y si nos devuelve un **OK**, significa que esta bien conectado y que si funciona )
+AT+ROLE=0 ( Le mandamos al monitor serie un **0**, y el cero significa que esta obligadamente ser esclavo )
+AT+ADDR? ( Le decimos que el esclavo nos den su clave **MAC** para despues poder mandarselo al maestro.
+
+MAESTRO:
+AT
+AT+ROLE=1
+AT+BIND= "escribir directamente la dirección MAC del esclavo" (sustituir los ":" por ",")
+
+
+
 ## ODS de este proyecto.
+
+<img src="Imagenes/ODS.png" width="300" height="300" />
+
+En este proyecto hemos usado las ODS 3, 9 y 12.
+
+_**ODS 3:**_ en este hablamos sobre la salud y el bienestar que nos puede ayudar.
+
+_**ODS 9:**_ en este hablamos sobre la industria, innovación y la infraestructura.
+
+_**ODS 12:**_ enn este hablamos sobre la producción y el consumo responsables.
+
+
 
 
 
