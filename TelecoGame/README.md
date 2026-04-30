@@ -217,7 +217,7 @@ Después entramos al **setup**, que en dentro de el nos dice que tiene una veloc
 
 Ahora vamos al **loop**, en el tenemos el funcionamiento, en que decimos si el bluetooth esta disponible manda una señal desde el bluetooth hasta el monitor serie y así viceversa.
 
-
+## ODS de este proyecto.
 
 
 
