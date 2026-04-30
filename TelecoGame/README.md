@@ -202,13 +202,20 @@ Este es el montaje final de invernadero, como podeis ver, estan unidas los suelo
 
 
 
-## - Conexión de bluetooth.
+## - **Conexión de bluetooth.**
 
 <img src="Imagenes/6º foto.png" width="300" height="300" />
 
 
-**Explicación:** 
+_**Explicación:**_
 
+Este programa se utiliza mediante el módulo **bluetooth** para controlar el maestro y el esclavo, y usando en **AT**(modo de configuración).
+
+Primero empieza diciendo que esta incluido la libreria de **SofewareSerial.h** y luego decimos que se llame **miBT** en que esta conectados en los pines 10 y 11.
+
+Después entramos al **setup**, que en dentro de el nos dice que tiene una velocidad de 9600 vaudios al ordenador, también dice que la velovidad de miBT es de 38400 vaudios (para configurar el AT) y al final que nos muestre en el monitor serie.
+
+Ahora vamos al **loop**, en el tenemos el funcionamiento, en que decimos si el bluetooth esta disponible manda una señal desde el bluetooth hasta el monitor serie y así viceversa.
 
 
 
