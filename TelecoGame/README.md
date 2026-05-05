@@ -184,9 +184,17 @@ Este es el montaje final de invernadero, como podeis ver, estan unidas los suelo
 | - | - | - | - |
 | <img src="Imagenes/1º Foto.png" width="300" height="300" /> | <img src="Imagenes/2º foto.png" width="300" height="300" /> | <img src="Imagenes/3º foto.png" width="300" height="300" /> | <img src="Imagenes/4º foto.png" width="300" height="300" /> |
 
-**_Parte 1:_** 
+**_Parte 1:_** En esta parte tenemos las librerias y variables que nos hacen falta.
 
-**_Parte 2:_**
+Primero empezamos diciendo que vamos a añadir la librería **Softwareserial.h** y le decimos que se va a llamar miBT ,y que esté conectado en los pines 10 y 11, luego tenemos cuatro tipos de variables que son: **temperatura**, **humedad**, **agua** y **salida**
+
+**TEMPERATURA:**.
+
+**int pinsensortemperatura = A2** (significa que esta conectado el sensor de tempertura en el pin analógico 2).
+
+**int entradatemperatura** (aqui 
+
+**_Parte 2:_** Primero tenemos una velocidad de 9600 vaudios que esta conectado al ordenador, luego tenemos otra velocidad de 9600 vaudios que esta conectado al pin de **miBT**, 
 
 **_Parte 3:_**
 
