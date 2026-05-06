@@ -186,13 +186,40 @@ Este es el montaje final de invernadero, como podeis ver, estan unidas los suelo
 
 **_Parte 1:_** En esta parte tenemos las librerias y variables que nos hacen falta.
 
-Primero empezamos diciendo que vamos a añadir la librería **Softwareserial.h** y le decimos que se va a llamar miBT ,y que esté conectado en los pines 10 y 11, luego tenemos cuatro tipos de variables que son: **temperatura**, **humedad**, **agua** y **salida**
+Primero empezamos diciendo que vamos a añadir la librería **Softwareserial.h** y le decimos que se va a llamar miBT ,y que esté conectado en los pines 10 y 11, luego tenemos cuatro tipos de variables que son: **temperatura**, **humedad**, **agua** y **salida**.
 
-**TEMPERATURA:**.
+**TEMPERATURA:**
 
 **int pinsensortemperatura = A2** (significa que esta conectado el sensor de tempertura en el pin analógico 2).
 
-**int entradatemperatura** (aqui 
+**int entradatemperatura** (este es una variable que se llama temperatura en que se usa como entrada).
+
+**float temperatura** (aqui son los datos marcados de temperatura).
+
+**HUMEDAD:**
+
+**int pinsensorhumedad = A0** (significa que esta conectado el sensor de humedad en el pin analógico 0).
+
+**int entradahumedad** (este es una variable que se llama humedad en que se usa como entrada).
+
+**int humedad** (aqui son los datos marcados de humedad).
+
+**AGUA:**
+
+**int pinsensoragua=A1** (significa que esta conectado el sensor de agua en el pin analógico 1).
+
+**int entradaagua** (este es una variable que se llama agua en que se usa como entrada).
+
+**int agua** (aqui son los datos marcados de agua).
+
+**SALIDA:**
+
+**int led = 5** (es el pin 5 que esta conectado an LED rojo).
+
+**int rele = 2** (es el pin 2 que esta conectado en el relé).
+
+**int ledagua=6**(es el pin 6 que esta conectado en el LED azul).
+
 
 **_Parte 2:_** Primero tenemos una velocidad de 9600 vaudios que esta conectado al ordenador, luego tenemos otra velocidad de 9600 vaudios que esta conectado al pin de **miBT**, 
 
