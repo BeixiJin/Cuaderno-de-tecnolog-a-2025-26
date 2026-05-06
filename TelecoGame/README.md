@@ -221,7 +221,7 @@ Primero empezamos diciendo que vamos a añadir la librería **Softwareserial.h**
 **int ledagua=6**(es el pin 6 que esta conectado en el LED azul).
 
 
-**_Parte 2:_** Primero tenemos una velocidad de 9600 vaudios que esta conectado al ordenador, luego tenemos otra velocidad de 9600 vaudios que esta conectado al pin de **miBT**, 
+**_Parte 2:_** Primero tenemos una velocidad de 9600 vaudios que esta conectado al ordenador, luego tenemos otra velocidad de 9600 vaudios que esta conectado al pin de **miBT**, y tiene todos los pines de salida en **OUTPUT**(en salida).
 
 **_Parte 3:_**
 
