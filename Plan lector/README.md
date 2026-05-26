@@ -54,6 +54,70 @@ Lo podemos incorporar en recibir información con sensores (temperatura, luz y h
 
 En manera de usar más arduinos para que funcione bien, en cada lugar un arduino paa tener su funcionamiento.
 
+# Análisis de proyectos:
+
+En sí el objetivo que tienen es diseñar y construir un vehículo(robot) autónomo desde cero y también aplicándole complementos de ingenieria.
+
+Explica el objetivo que tienen, después hablan sobre el chasis, diseños y los montajes ,y luego en la página tenemos varios botones en que le pulsamos y nos lleva a otra subpágina que explica más profundamente sobre los que hemos elegido.
+
+## Diseño y estructuras
+
+En esta parte hablamos sobre como lo hemos diseñado y como lo hemos omtado.
+
+**_Proceso montaje del robot_.**
+
+Principalmente esta dividido en 4 partes y en varios pequeños instrucciones:
+
+- La primera parte habla sobre la estructura de base y cerebro mas profundamente.
+
+- La segunda parte habla sobre la alimentación y la tracciónque tiene.
+
+- La tercera parte habla sobre la lntegración de sistemas y sensores que existen en el robot.
+
+- La cuarta parte habla sobre la conectividad que tiene y la finalización que han hecho.
+
+Otros instrucciones:
+
+**_- Créditos y autoría:_** habla sobre los autores que lo hicieron.
+
+**_- ¿Por qué Leotardo es así?:_** habla de como han pensado de hacer este robot.
+
+**_- Especificaciones del Reglamento:_** habla sobre las reglas que tienen que cumplir.
+
+**_- Diseño y Toma de Decisiones:_** habla sobre los diseños másprofundamente.
+
+**_- Evolución de los Sistemas Electrónicos:_** habla sobre como han elegido los cmponentes.
+
+## Mecánica.
+
+Aqui en si hablamos sobre los montajes y los diseños de cada parte del robot.
+
+**_Evolución del Chasis: Del Metacrilato al Chasis Modular de PLA:_** habla de como le han ocurrido la idea de hacer esto y explica la alta fragilidad ante esfuerzos mecánicos constantes y vibraciones que tiene el robot.
+
+**_Versión Avanzada: Diseño Modular de Doble Placa:_** habla más sobre los componentes del robot y las ventajas que tienen.
+
+## Electrónica.
+
+Habla sobre los componentes eléctricos que usaron y los problemas que han tenido.
+
+**_Gestión de la Energía y Alimentación:_** habla sobre las energias y los problemas que haya tenido en este robot
+
+**_La Solución: Baterías de Litio Recargables (3.7V x 2):_** la solución que nos dan.
+
+**_Esquema de Conexiones Electrónicas (Fase Provincial):_** Como se conectan.
+
+**_Detalle de Cableado por Componente:_** algunos detalles que hayan marcado.
+
+Y más componentes como actuadores, tracción, dirección, etc.
+
+## PROGRAMACIÓN.
+
+Tiene un programa muy completa en que han usado muchos complementos y variables para cada cosa explicada arriba.
+
+## CONCLUSIONES.
+
+En conclusión este proyecto ha sido aprendizaje contiguo pero en mi parte ha esta muy bien hecho, muy completo y esta basado parte pr parte cada cosa que no te deja cosas que no entiendas.
+
 
 
 
