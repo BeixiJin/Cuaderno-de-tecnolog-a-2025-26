@@ -10,6 +10,10 @@ Nuestro trabajos está dividido a partes, cada uno ha asignado una parte y a mi 
 
 Los paredes no son iguales de largo y los complementos que tiene cada uno tampocoes igual, a mi me tocó una ventana larga y de componente solo tengo una ventana, en que la ventana tiene su marco, en dondelos marcos de los lados estan conectados con visagras hembras, y la ventana en si tiene conectado visagras machos.
 
+## Medidas:
+
+**pared largo:** 125mm x 255mm.
+
 
 
 
