@@ -2,9 +2,9 @@
 
 Este es el producto final que vamos a hacer, consiste en crear una casa inteligente con sensores y motores que nos facilite la vida, y ahora vamos a ello.
 
+## Pared parte izquierda.
 
-
-
+<img src="Imagenes/pared izq.png" width="500" height="500" />
 
 
 
